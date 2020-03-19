@@ -23,7 +23,7 @@ $ git push -u origin master
 
 ## AWS Setup
 
-Static Website Hosting On AWS With HTTPS, Custom Domain And Continuous Integration
+Static Website Hosting On AWS With HTTPS, Custom Domain And Continuous Integration  
 https://youtu.be/_UFUm1sFbpw
 
 
@@ -41,5 +41,5 @@ Deploy to remote sites
 
 
 ## Hexo Tutorials
-Good tutorial for Hexo from Mike Dane covering most of the things needed
+Good tutorial for Hexo from Mike Dane covering most of the things needed  
 https://www.youtube.com/watch?v=Kt7u5kr_P5o&list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm&index=1
