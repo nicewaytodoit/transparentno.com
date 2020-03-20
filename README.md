@@ -43,3 +43,16 @@ Deploy to remote sites
 ## Hexo Tutorials
 Good tutorial for Hexo from Mike Dane covering most of the things needed  
 https://www.youtube.com/watch?v=Kt7u5kr_P5o&list=PLLAZ4kZ9dFpOMJR6D25ishrSedvsguVSm&index=1
+
+
+## Hexo Theme
+
+- Clexy Installed and Uninstalled
+```
+$ yarn remove hexo-renderer-ejs
+$ yarn add hexo-renderer-jade
+$ yarn add hexo-prism-plugin
+```
+
+$ yarn remove hexo-renderer-jade hexo-prism-plugin
+$ yarn add hexo-renderer-ejs
