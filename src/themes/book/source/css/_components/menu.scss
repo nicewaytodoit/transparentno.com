@@ -19,6 +19,12 @@
     font-size: $font-size-smaller;
   }
 
+  h1 {
+    a {
+      font-weight: 500 !important;
+    }
+  }
+
   ul,
   ol,
   li {
@@ -38,7 +44,7 @@
 
   .accordion {
     padding: $sidebar-menu-spacing $sidebar-ending-pd $sidebar-menu-spacing $sidebar-starting-pd;
-    border-top: 1px solid rgb(231, 231, 231);
+    // border-top: 1px solid rgb(231, 231, 231);
 
     label {
       display: flex;

@@ -1,21 +1,17 @@
 ---
 title: Changelog
+date: 2020-03-20 10:00
+comments: false
 ---
-
-**v2.0.0 - 2020/01/30**
-
-* Redesign whole theme
-* More powerful menu system, check [Menu Realtime Demo](/hexo-theme-book-demo/demo/menu-realtime/)
-
-**v1.0.0 - 2019/07/23**
 
 * Initial release
 
-**v0.0.1 - 2019/04/16**
+**v0.0.1 - 2020/03/19**
+
 
 * Initial commit
 
-<a class="btn btn-primary" href="https://github.com/kaiiiz/hexo-theme-book/releases">Releases</a>
+<a class="btn btn-primary" href="https://github.com/nicewaytodoit/transparentno.com/releases">Releases</a>
 
 <style>
 .btn.btn-primary {

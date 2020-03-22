@@ -1,6 +1,7 @@
 ---
-title: todo-fix
+title: TODO List
 date: 2020-03-20 08:43:43
+comments: false
 tags:
 ---
 
@@ -26,11 +27,20 @@ tags:
 
 - Jednostavniji komentari 
 
-BLOG
+CLANCI
+    Poslednjih 5
+        - 1
+        - 2
+        - 3
 O MENI
 USLUGE
 KONTAKT
-SARADNJA
+OSTALO
+    - SARADNJA
+    - SIRENJE
+    - 
+
+
 
 https://github.com/dusign/hexo-theme-snail/tree/master/source
 404, cname, robot
