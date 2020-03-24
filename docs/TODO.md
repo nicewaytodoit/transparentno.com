@@ -12,10 +12,15 @@
 
 
 --------------------------------------------
--- 2020-03-23 `DONE` list
-- Setup CI on AWS -
+-- 2020-03-24 `DONE` list
+- Setup CI on AWS - Service CodeBuild
     - deployment to AWS s3 bucket
 - google analytic setup 
+- home page fix 
+- master / develop granch on git 
+
+
+- hide s3 / cloudfront 
 - comments -
     https://victorzhou.com/blog/replacing-disqus/#commento-login-box-container
     https://commento.io/signup
