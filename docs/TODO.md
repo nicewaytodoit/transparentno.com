@@ -12,15 +12,20 @@
 
 
 --------------------------------------------
+
+
 -- 2020-03-24 `DONE` list
 + Setup CI on AWS - Service CodeBuild
     + deployment to AWS s3 bucket
     + buildspec.yml radi 
-    - automatsko updatovanje posle commita? 
-- master / develop granch on git
+    + automatsko updatovanje posle commita? 
+    + CodePipeline avoided as it cost money with "Rebuild every time a code change is pushed to this repository" github
+    + added hook for `private repo` and `Primary source webhook events` added on `push and merge branch` 
 
 - google analytic setup 
 - home page fix 
+- master / develop granch on git
+
 
 
 - hide s3 / cloudfront 

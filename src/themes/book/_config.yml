@@ -11,9 +11,9 @@ codeblock:
 
 comments:
   utterances:
-    enable: false
-    user: # your github user name
-    repo: # your github repo name
+    enable: true
+    user: nicewaytodoit
+    repo: transparentno.com
     theme: github-light # github-light | github-dark | github-dark-orange | icy-dark | dark-blue | photon-dark
   disqus:
     enable: false
@@ -28,4 +28,4 @@ comments:
     labels: 'gitalk' # GitHub issue labels
     distractionFreeMode: true
 
-google_analytics: # UA-XXXXX-Y
+google_analytics: UA-16430012-5
