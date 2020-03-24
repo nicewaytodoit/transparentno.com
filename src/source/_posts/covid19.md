@@ -54,7 +54,7 @@ Samim tim ako volite svoje najmilije, prijatelje i ukućane sledite predložene 
 - Ostali ukućani takođe treba da provode pojačane mere lične higijene, da ograniče svoje kretanje i socijalne kontakte
 
 
-## Pouke i Šanse 
+## Pouke i šanse 
 Svaki problem i iskušenje su ujedno šansa da se nauči lekcija ili napravi proizvod koji drugim ljudima može pomoći. Kao posledica rešavanja tog problema, može se ostvariti neka vrsta dobiti. 
 
 ### Lično
