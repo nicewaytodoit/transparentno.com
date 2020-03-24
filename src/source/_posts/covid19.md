@@ -57,6 +57,8 @@ Samim tim ako volite svoje najmilije, prijatelje i ukućane sledite predložene 
 
 Sve ovo radimo da bi se dobilo na vremen, dok se ne pronađe efikasan tretman i vakcina koja će ući u upotrebu.
 
+Naručito jer je moguće zaraziti se opet, ove mere će biti absolutno neophodne, a obzirom da virus ostavlja posledice na plućima kojima treba i do 15 godina da se zaleče, dugotrajna opasnost može biti mnogo veća od one koje sada vidimo.
+
 ## Pouke i šanse 
 Svaki problem i iskušenje su ujedno šansa da se nauči lekcija ili napravi proizvod koji drugim ljudima može pomoći. Kao posledica rešavanja tog problema, može se ostvariti neka vrsta dobiti. 
 
