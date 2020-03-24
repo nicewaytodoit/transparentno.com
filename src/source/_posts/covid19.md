@@ -32,11 +32,7 @@ Takođe treba uzeti da je Srbija mala zemlja sa populacijom koja je duplo manja 
 
 Gore navedene procene stope smrtnosti su uz pruženu medicinsku negu. Stopa smrtnosti bez medicinske nege nije poznata, ali na Italijanskom primeru se može zaključiti da je značajno veća. 
 
-The patients were given antiviral medication and recovered 12 to 32 days after symptom onset.
-Ono sto je jos bitno znati sa antiviralnim medikamentima oporavak je trajao u proseku od [12 do 32 dana nakon pojave simptoma](http://www.cidrap.umn.edu/news-perspective/2020/02/some-covid-19-patients-test-positive-days-after-recovery), virus može da preživi [u respiratornom traktu do 37 dana](https://www.cbsnews.com/news/coronavirus-can-live-in-your-body-for-up-to-37-days-according-to-new-study/), [može se dobiti opet](https://www.theguardian.com/world/2020/feb/27/japanese-woman-tests-positive-for-coronavirus-for-second-time), i zato je jako bitno da svi ostanemo u izolaciji.
-Ako smo bili u dodiru sa inficiranim potrebno je ostati u izolaciji [najmanje 14 dana](https://www.weforum.org/agenda/2020/03/coronavirus-recovery-what-happens-after-covid19/).
-
-Sve ovo radimo da bi se dobilo na vremen dok se ne pronađe efikasan tretman i vakcina koja će ući u upotrebu.
+Ono što je još bitno znati je da je sa antiviralnim medikamentima oporavak je trajao u proseku od [12 do 32 dana nakon pojave simptoma](http://www.cidrap.umn.edu/news-perspective/2020/02/some-covid-19-patients-test-positive-days-after-recovery), virus može da preživi [u respiratornom traktu do 37 dana](https://www.cbsnews.com/news/coronavirus-can-live-in-your-body-for-up-to-37-days-according-to-new-study/) i [može se dobiti opet](https://www.theguardian.com/world/2020/feb/27/japanese-woman-tests-positive-for-coronavirus-for-second-time). Zato je jako bitno da svi ostanemo u izolaciji. Ako smo bili u dodiru sa inficiranim potrebno je ostati u izolaciji [najmanje 14 dana](https://www.weforum.org/agenda/2020/03/coronavirus-recovery-what-happens-after-covid19/).
 
 Samim tim ako volite svoje najmilije, prijatelje i ukućane sledite predložene preporuke samoizolacije:
 - Ostanite kod kuće, u prostoriji koja se može redovno provetravati
@@ -59,6 +55,7 @@ Samim tim ako volite svoje najmilije, prijatelje i ukućane sledite predložene 
 - Svakodnevno dezinfikujte prostorije u kojima boravite
 - Ostali ukućani takođe treba da provode pojačane mere lične higijene, da ograniče svoje kretanje i socijalne kontakte
 
+Sve ovo radimo da bi se dobilo na vremen, dok se ne pronađe efikasan tretman i vakcina koja će ući u upotrebu.
 
 ## Pouke i šanse 
 Svaki problem i iskušenje su ujedno šansa da se nauči lekcija ili napravi proizvod koji drugim ljudima može pomoći. Kao posledica rešavanja tog problema, može se ostvariti neka vrsta dobiti. 
