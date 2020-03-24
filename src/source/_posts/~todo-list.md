@@ -45,4 +45,8 @@ OSTALO
 https://github.com/dusign/hexo-theme-snail/tree/master/source
 404, cname, robot
 
+{% asset_img txt-class shark-giraffe.jpg '"Shark Giraffe Is the Man" "Alt text some"' 200px 333px %}
+
+<img src="/articles/razlog/shark-giraffe.jpg" width="200" height="250" alt="Dimensions" title="Ih kako">
+
 
