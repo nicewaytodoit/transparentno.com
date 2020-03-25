@@ -2,6 +2,7 @@
 title: Razlog
 date: 2020-03-21 15:11:34
 tags: [pozdrav, ekonomija, nauka]
+card: sunrise.jpeg
 ---
 
 # Razlog 

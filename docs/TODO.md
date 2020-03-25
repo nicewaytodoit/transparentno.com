@@ -11,11 +11,20 @@
 -- 2020-03-25 `DONE` list
 + style right side menu 
 + master / develop granch on git
-    - work only in develop and push requests (PRs)
-    - issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
+    + work only in develop and push requests (PRs)
+    + issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
+
+
 - home page fix
+    - https://blog.oniuo.com/theme-inside / http://miccall.tech/ / https://blog.utone.xyz/
+    - Recent 4
+    - Random 4
+    - Archive -> Link
+
 - hide -> s3 / cloudfront 
-    
+    - restrict access to s3 directly = https://www.youtube.com/watch?v=x95vzaeEsRk
+    - cloudfront url ?
+
 
 ================================================================
 ## 2020-03-24 `DONE` list

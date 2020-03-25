@@ -1,7 +1,8 @@
 ---
 title: Covid 19
-date: 2020-03-22 10:22:10
+date: 2020-03-24 21:17:10
 tags: [covid19, coronavirus, epidemija, proračun, procena]
+card: covid19.jpeg
 ---
 
 # Corona virus - COVID-19
