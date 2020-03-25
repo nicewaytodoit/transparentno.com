@@ -1,35 +1,35 @@
 # Backlog - transparentno.com
 - check functionalities 
-- create AWS s3 hosting 
-    https://www.youtube.com/watch?v=_UFUm1sFbpw&feature=share
-- certificate setup
-    https://medium.com/@deepak13245/hosting-a-https-static-websites-using-s3-and-lets-encrypt-6f3e53014ff2
-- CI setup 
 - create structure about what to write in Draft folder 
 - move README.md to src create another one which will explain purpose ...
 - Clanci su u ToDo listi 
 - kreirati letsEncrypt certifikat
 
 
+
 --------------------------------------------
+-- 2020-03-25 `DONE` list
+- master / develop granch on git
+- home page fix
+- style right side menu 
+- hide -> s3 / cloudfront 
+    
 
-
--- 2020-03-24 `DONE` list
+================================================================
+## 2020-03-24 `DONE` list
++ create AWS s3 hosting 
+    https://www.youtube.com/watch?v=_UFUm1sFbpw&feature=share
++ certificate setup = with Amazon for free
+    https://medium.com/@deepak13245/hosting-a-https-static-websites-using-s3-and-lets-encrypt-6f3e53014ff2
++ CI setup 
 + Setup CI on AWS - Service CodeBuild
     + deployment to AWS s3 bucket
     + buildspec.yml radi 
     + automatsko updatovanje posle commita? 
     + CodePipeline avoided as it cost money with "Rebuild every time a code change is pushed to this repository" github
     + added hook for `private repo` and `Primary source webhook events` added on `push and merge branch` 
-
-- google analytic setup 
-- home page fix 
-- master / develop granch on git
-
-
-
-- hide s3 / cloudfront 
-- comments -
++ google analytic setup 
++ comments - Utterances for now but there are many other options
     https://victorzhou.com/blog/replacing-disqus/#commento-login-box-container
     https://commento.io/signup
     <script defer
@@ -38,8 +38,6 @@
     <div id="commento"></div>
     https://getreplybox.com/docs/getting-started-universal-code
     https://nestify.io/blog/11-best-disqus-alternatives-you-should-try/
-    
-================================================================
 
 ## 2020-03-22 `DONE` list
 + Napisati 3 kratka clanka za test 

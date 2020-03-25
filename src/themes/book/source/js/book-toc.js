@@ -18,7 +18,7 @@ function expand_toc() {
         scrollSmooth: false,
     })
     b.setAttribute("onclick", "collapse_toc()")
-    b.innerHTML = "Collapse all"
+    b.innerHTML = '<img src="/img/collapse-all-outline.png" title="Collapse all" width="16px" height="16px">';
 }
 
 function collapse_toc() {
@@ -32,7 +32,7 @@ function collapse_toc() {
         scrollSmooth: false,
     })
     b.setAttribute("onclick", "expand_toc()")
-    b.innerHTML = "Expand all"
+    b.innerHTML = '<img src="/img/expand-all-outline.png" title="Expand All" width="16px" height="16px">';
 }
 
 function go_top() {

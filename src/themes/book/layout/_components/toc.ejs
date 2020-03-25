@@ -1,9 +1,15 @@
-<div class="book-tocbot">
-</div>
 <div class="book-tocbot-menu">
-  <a class="book-toc-expand" onclick="expand_toc()">Expand all</a>
-  <a onclick="go_top()">Back to top</a>
-  <a onclick="go_bottom()">Go to bottom</a>
+  <a class="book-toc-expand" onclick="expand_toc()">
+    <%- image_tag('img/expand-all-outline.png', { title: 'Expand All', width: '16px', height: '16px' }) %>
+  </a>
+  <a onclick="go_top()">
+    <%- image_tag('img/chevron-double-up.png', { title: 'Back to top', width: '16px', height: '16px' }) %>
+  </a>
+  <a onclick="go_bottom()">
+    <%- image_tag('img/chevron-double-down.png', { title: 'Go to bottom', width: '16px', height: '16px' }) %>
+  </a>
+</div>
+<div class="book-tocbot">
 </div>
 
 <%- js('js/book-toc') %>
