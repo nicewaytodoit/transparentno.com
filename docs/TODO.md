@@ -12,6 +12,7 @@
 + style right side menu 
 + master / develop granch on git
     - work only in develop and push requests (PRs)
+    - issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
 - home page fix
 - hide -> s3 / cloudfront 
     
