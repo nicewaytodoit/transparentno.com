@@ -4,18 +4,9 @@ date: 2020-03-19 10:00
 comments: false
 ---
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+U filmu "Lepa Selo Lepo Gore" u jednoj sceni pominje se navodno deo "Kremanskog proročanstva" u kome se kaže "doći će vreme kad će svi Srbi stati pod jednu šljivu". Ta rečenica je laž koja je plasirana tokom građanskog rata u Jugoslaviji, kako bi se poljuljalo Srpsko jedinistvo, a ti koji su je plasirali su uspeli, jer su znali da mnogi ljudi jako veruju pročanstvu ali da ga lićno nikad nisu pročitali.
 
-# Hello
+Sa druge strane izjave "Ne daj Bože da se Srbi slože" turskog sultana Sulejmana (1495 - 1566) je istinita. Čak i pre 500 godina protivnici su znali isto što i danas, da je Srpskom narodu, nesloga najveći kamen spoticanja.
 
-This is the demo of [hexo-theme-book](https://github.com/kaiiiz/hexo-theme-book) :)
-
-## Contribution
-
-* Feel free to open **issue** in the github repo if you have any suggestions to this theme.
-* Also, you can **pull request** directly if there exist any unsolved bugs.
-
-## Timeline
-
-* 2020/03/22 - Deployment and hosting - test
-* 2020/03/19 - Prvi 
+Ideja ovog pisanja je da nekoliko minuta dnevno pokušate da odbacite sve sumnje, sprdnje, sarkazam i da zamislite kako bi izgledao svet u kome bi to bilo moguće.
+Onog trenutka kad savladate taj najteži deo, zapitajte se ovo: Šta mogu da uradim sad, da bi ostvario bar delić tog sna?  

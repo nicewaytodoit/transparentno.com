@@ -1,14 +1,18 @@
 ---
 title: Odgovornost Medija
-date: 2020-03-22 22:00
-tags: [mediji, etika, odgvoronost]
+date: 2020-03-25 22:00
+tags: [mediji, etika, odgovoronost]
+card: pen.jpeg
 ---
 
 # Odgovornost Medija
 
-Mediji danas imaju veliku ulogu.
+Ako je pero moćnije od mača, koja je odgovornost onog koji drži pero?
 
-Ako je pero mocnije od maca, koja je odgovornost onog koji drzi pero?
+Mediji danas imaju veliku moć.
 
-Koliko novac podriva sistem obavestavanja?
+Koliko novac podriva sistem informisanja?
 
+Šta bi trebalo promeniti da bi strane i domaće interesne grupe izgubile moć kontrole nad medijima?
+
+Da li postoji način da mediji postanu slobodni i etički odgovorni?
