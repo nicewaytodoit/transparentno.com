@@ -9,9 +9,10 @@
 
 --------------------------------------------
 -- 2020-03-25 `DONE` list
-- master / develop granch on git
++ style right side menu 
++ master / develop granch on git
+    - work only in develop and push requests (PRs)
 - home page fix
-- style right side menu 
 - hide -> s3 / cloudfront 
     
 
