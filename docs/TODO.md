@@ -9,9 +9,11 @@
 
 --------------------------------------------
 -- 2020-03-25 `DONE` list
-- master / develop granch on git
++ style right side menu 
++ master / develop granch on git
+    - work only in develop and push requests (PRs)
+    - issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
 - home page fix
-- style right side menu 
 - hide -> s3 / cloudfront 
     
 
