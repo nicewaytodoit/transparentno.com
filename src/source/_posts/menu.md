@@ -27,5 +27,5 @@ comments: false
 
 ## Tehnički deo
 * [Changelog](/articles/~changelog)
-* [ToDo List](/articles/~todo-list)
+<!-- * [ToDo List](/articles/~todo-list) -->
 
