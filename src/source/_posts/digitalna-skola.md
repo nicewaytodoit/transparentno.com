@@ -4,17 +4,23 @@ date: 2020-04-21 09:15:10
 tags: [skola, edukacija, digitalizacija, online]
 description: Edukacije je prva tema iz serijala o tome kako "gurnuti" Srbiju u 21 vek. 
 card: digitalna-skola.jpg
+comments: true
 ---
+
+# Digitalna Osnovna škola
 
 U jednoj sceni iz filma "[Šešir profesora Koste Vujića](https://www.youtube.com/watch?v=NWCZAMd1WL8)" iz (1972) rađenom po istoimenom romanu Milovana Vitezovića, profesor Vujić kaže: "kakva kuhinja takva i deca", i zaista njegova "kuhinja" je dale mnoga znamenita imena poput: Jovana Cvijića, Mihaila Petrovića Alasa, Pavla Popovića, Jaše Prodanovića i mnogih drugih kojima bi Srbija trebalo da bude večno zahvalna.
 
 Ta scena i jedan [post na poslovnoj mreži](https://www.linkedin.com/posts/darkodrazovic_%D0%BC%D0%BE%D1%80%D0%B0%D0%BC-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%82%D0%B8-%D0%B4%D0%B0-%D1%98%D0%B5-%D0%BE%D0%B2%D0%B0-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B5%D0%BA%D0%BE-%D1%80%D1%82%D1%81-%D0%B0-activity-6647854312577867776-hawo/) u kome je roditelj pohvaljuje Ministartstva prosvete i RTS jer su uspeli da tokom karantina u rekordno kratkom roku omoguće deci da nastave sa školskim obavezama, potakao me je na razmišljanje te prokomentarisah kratko: "Eto ideja za ubuduce, kreirati nekoliko nacionalnih kanala koji će to emitovati neprestano tokom cele godine."
+
+<img src="/articles/digitalna-skola/linkedin-post.jpg" width="300" title="LinkedIn Post" alt="" class="img-mb-14">
+
 Nakon tog komentara, neki drugi roditelj pitao je kako da organizuje video konferenciju, a opet neko treći koja aplikacija je dobra da se organizuje razred... kako su se nizala pitanja, roj misli je nastavio da mi grebe mozak i rodilo se jos nekoliko ideja. Osim što ljude koji odavde odlaze u neke ekonomski naprednije zapadne zemlje, čekamo da se vrate donoseći prosvećenost, dali bi mogli da dovedemo napredak u Srbiju?
 Šta ako bi napravili online školu koja bi bila dostupna svima gde god da su, ovde ili bilo gde u inostranstvu? Školu koja ne bi zavisila od nacionalne frekvencije ili vremena emitovanja? Školu koja je besplatna i dostupna svima, a opet dovoljno fleksibilna da pomogne deci i roditeljima koji žele ili su primorani da školuju decu od kuće?
 
 
-## Osnovna ideja
-Zamislite da se napravi YouTube kanal koji bi imao čitav plan i program Osnovne škole, svih predmeta od 1 do 8 razreda. Video materijal bi bio podržan sa dodatnom `web platforme` koja bi nudila digitalnu učionicu, dnevnik ocena i status napretka, kao i razne igre, testove i kvizove znanja. Pri ovome bitno je naglasiti da bi sistem ocenjivanja i cela platforma mogli da se ugledaju na [Khan akademiju](https://www.khanacademy.org/), u kojoj se znanje posmatra kao inkrement prethodnog, a ne aproksimacija prethodnih ocena. O ovome se može diskutovati kasnije. Veoma pozitivan deo Khan akademije je prihvatanje da je svako dete individua koja ima različitu brzinu usvajanja znanja. Bitno je napomenuti da ovaj vid edukacije nije zamena za redovno školovanje nego dodatno nastavno učilo.
+## Ideja
+Zamislite da se napravi YouTube kanal koji bi imao čitav plan i program Osnovne škole, svih predmeta od 1 do 8 razreda. Video materijal bi bio podržan sa dodatnom **web platforme** koja bi nudila digitalnu učionicu, dnevnik ocena i status napretka, kao i razne igre, testove i kvizove znanja. Pri ovome bitno je naglasiti da bi sistem ocenjivanja i cela platforma mogli da se ugledaju na [Khan akademiju](https://www.khanacademy.org/), u kojoj se znanje posmatra kao inkrement prethodnog, a ne aproksimacija prethodnih ocena. O ovome se može diskutovati kasnije. Veoma pozitivan deo Khan akademije je prihvatanje da je svako dete individua koja ima različitu brzinu usvajanja znanja. Bitno je napomenuti da ovaj vid edukacije nije zamena za redovno školovanje nego dodatno nastavno učilo.
 
 
 ## Stanje / statistika
@@ -37,10 +43,11 @@ Ako bi se odazvalo samo 100 predavača ili 0.2% svih zaposlenih, projekat bi mog
 ## Kako bi se platforma finansirala?
 Projekt bi se prvenstveno finansirao na dva načina:
 -	 kroz donacije (drzava, dijaspora, firme, pojedinci dobre volje) u prvo vreme 
--	 kroz YouTube reklame.
+-	 kroz YouTube reklame.  
+
 Nadam se da bi se u prvo vreme moglo sakupiti dovoljno donacija koje bi pomogle ostvarivanje prve faze projekta.
-Međutim što se tiče dugotrajnog finansiranja oslanjao bi se na reklame YouTub-a.
-Ako bi svaki ucenik pogledao svaki video bar jednom kanal bi generisao 414 miliona pregleda godišnje.
+Međutim što se tiče dugotrajnog finansiranja oslanjao bi se na reklame YouTub-a kao i na reklame promotera školskog pribora, učila i tehnike.
+Ako bi svaki učenik pogledao svaki video bar jednom kanal bi generisao 414 miliona pregleda godišnje.
 Mada zarada od reklama u velikome zavise od broja pregleda i YouTube algoritma, iz internet izvora vidi se da je generalno na 100 hiljada pregleda moguće zaraditi od $5 do $100 što bi u našem slučaju značilo $20 hiljada do $415 hiljada dolara godišnje. Međutim to je samo ako računamo maksimlano pomenuti broj pregleda koji bi u relanosti bio mnogo manji. U ovom trenutku nije moguće reći koji bi bio realni procenat pregleda i da li je to 10% ili manje od gore pomenutog.
 
 Da bi se uspostavilo poverenje, slično imenu ovog sajta svi prihodi i rashodi bili bi potpuno transparentni i dostupni svima.
@@ -61,6 +68,10 @@ Osim povećanja dostupnosti standardnog školskog programa svima, ova platforma 
 
 ## Kako?
 Da bi se ovo desilo nije potrebno čekati dozvolu, odobrenje ili tapkanje po ramenu raznih državnih ili drugih institucija, potrebna je samo dobra volja ljudi koji žele da pomognu se ovo desi. Naravno u pogrešnim rukama svaka vizija se lako može iskvariti. Ako vam ova ideja ima smisla i želite da se desi možete pomoći na mnogo načina: prosledite link ovag tekst nekome kome on može biti zanimljiv, ili možda prosvetnom radniku koji želi bolju Srbiju i koji bi voleo da učestvuje u ovoj ideji.
-Ako ste neko ko želi da pomogne pošaljite mi e-mail, a odatle ćemo se već lako organizovati.
+Ako ste neko ko želi da pomogne pošaljite mi e-mail na `prozirno.sve [AT] gmail.com`, a odatle ćemo se već lako organizovati.
 
 Što se tiče ove ideje ili bilo koje ideje na ovom sajtu, šaljite mi svoje komenatare, ideje i predloge. Takođe biću vam zahvalan ako mi ukažete na slovne, gramatičke greške ili propuste semantičke prirode.
+
+<style>
+    .img-mb-14 { margin-bottom: 14px; }
+</style>
