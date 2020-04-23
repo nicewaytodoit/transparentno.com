@@ -28,7 +28,7 @@ Postavljaju se sledeća pitanje:
 Mada sam dobio odgovore (poneke slične slikama koju možete videti na ulicama mnogih svetskih metropola) koji kaže da je danas veća verovatnoća da će ljudi imati pametni uređaj nego hranu da preguraju dan, trebalo bi uraditi analizu koja bi pokazala kakva je realna situacija naručito što se tiče ruralnog stanovništva ([43.6%](http://www.dgt.uns.ac.rs/download/seoskitur1.pdf) ukupnog stanovništva).
 
 - Koliki je otpor dece/prosvetnog kadra prema novim tehnologijama?
-Bar na veoma malom ispitanom uzorku ispostavilo se da otpornost i dalje postoji, i mada su deca odrasla okružena tehnologijama i mada veoma brzo prihvataju novo, deca često nisu ni svesna ovih resursa mada su ti resursi prosleženi često u vidu dodatnog CD'a, gde problem može biti i to što pametni telefoni, tableti pa čak i novi laptopovi ne koriste više CD/DVD-ove. 
+Bar na veoma malom ispitanom uzorku ispostavilo se da otpornost i dalje postoji, i mada su deca odrasla okružena tehnologijama i mada veoma brzo prihvataju novo, deca često nisu ni svesna ovih resursa mada su ti resursi priloženi često u vidu dodatnog CD/DVD-a, pri čemu problem može biti i to što pametni telefoni, tableti pa čak i novi laptopovi ne koriste više CD/DVD-ove (problem zastarele tehnologije). 
 Međutim postoji i druga strana medalje, predavači svesni ekonmske situacije svojih učenika često ne žele da ih izlože dodatnim troškovima osim onih koji su rezervisani za najosnovnija sredstva edukacije. 
 
 - Problem prevelikog izbora i decentralizacije
