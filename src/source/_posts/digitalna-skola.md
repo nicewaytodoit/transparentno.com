@@ -9,13 +9,13 @@ comments: true
 
 # Digitalna Osnovna škola
 
-U jednoj sceni iz filma "[Šešir profesora Koste Vujića](https://www.youtube.com/watch?v=NWCZAMd1WL8)" iz (1972) rađenom po istoimenom romanu Milovana Vitezovića, profesor Vujić kaže: "kakva kuhinja takva i deca", i zaista njegova "kuhinja" je dala mnoga znamenita imena poput: Jovana Cvijića, Mihaila Petrovića Alasa, Pavla Popovića, Jaše Prodanovića i mnogih drugih kojima bi Srbija trebalo da bude večno zahvalna.
+U jednoj sceni iz filma "[Šešir profesora Koste Vujića](https://www.youtube.com/watch?v=NWCZAMd1WL8)" iz (1972) rađenom po istoimenom romanu Milovana Vitezovića, profesor Vujić kaže: "kakva kuhinja takva i deca". I zaista njegova "kuhinja" je dala mnoga znamenita imena poput: Jovana Cvijića, Mihaila Petrovića Alasa, Pavla Popovića, Jaše Prodanovića i mnogih drugih kojima bi Srbija trebalo da bude večno zahvalna.
 
 Ta scena i jedan [post na poslovnoj mreži](https://www.linkedin.com/posts/darkodrazovic_%D0%BC%D0%BE%D1%80%D0%B0%D0%BC-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%82%D0%B8-%D0%B4%D0%B0-%D1%98%D0%B5-%D0%BE%D0%B2%D0%B0-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BF%D1%80%D0%B5%D0%BA%D0%BE-%D1%80%D1%82%D1%81-%D0%B0-activity-6647854312577867776-hawo/) u kome je roditelj pohvaljuje Ministartstva prosvete i RTS jer su uspeli da tokom karantina u rekordno kratkom roku omoguće deci da nastave sa školskim obavezama, potakao me je na razmišljanje te prokomentarisah kratko: "Eto ideja za ubuduce, kreirati nekoliko nacionalnih kanala koji će to emitovati neprestano tokom cele godine."
 
 <img src="/articles/digitalna-skola/linkedin-post.jpg" width="300" title="LinkedIn Post" alt="" class="img-mb-14">
 
-Nakon tog komentara, neki drugi roditelj pitao je kako da organizuje video konferenciju, a opet neko treći koja aplikacija je dobra da se organizuje razred... kako su se nizala pitanja, roj misli je nastavio da mi grebe mozak i rodilo se jos nekoliko ideja. Osim što ljude koji odavde odlaze u neke ekonomski naprednije zapadne zemlje, čekamo da se vrate donoseći prosvećenost, dali bi mogli da dovedemo napredak u Srbiju?
+Nakon tog komentara, neki drugi roditelj posatio je pitanje kako da organizuje video konferenciju, a opet neko treći koja aplikacija je dobra da se organizuje razred... kako su se nizala pitanja, roj misli je nastavio da mi grebe mozak i rodilo se još nekoliko ideja. Osim što ljude koji odavde odlaze u neke ekonomski naprednije zapadne zemlje, čekamo da se vrate donoseći prosvećenost, dali bi mogli da dovedemo napredak u Srbiju?
 Šta ako bi napravili online školu koja bi bila dostupna svima gde god da su, ovde ili bilo gde u inostranstvu? Školu koja ne bi zavisila od nacionalne frekvencije ili vremena emitovanja? Školu koja je besplatna i dostupna svima, a opet dovoljno fleksibilna da pomogne deci i roditeljima koji žele ili su primorani da školuju decu od kuće?
 
 
@@ -24,7 +24,7 @@ Zamislite da se napravi YouTube kanal koji bi imao čitav plan i program Osnovne
 
 
 ## Stanje / statistika
-Prema podacima Republičkog zavoda za statistiku samo za 5 godina broj učenika se smanjio za 41,043. Broj učenika osnovih škola je sa 558,869 2015-e pao na 517,826 u školskoj 2019-2020. Ovaj broj nam pokazuje da Srbija ima ogroman problem, osim što nacija ubrzano izumire, a ljudi se iseljavaju iz zemlje trbuhom za kruhom, opada i broj dece koja se rađa, navodeći na zaključak da Srbija umire kao nikad u prethodnoj istoriji. Ali o tome u nekom drugom tekstu.
+Prema podacima Republičkog zavoda za statistiku samo za 5 godina broj učenika se smanjio za 41,043. Broj učenika osnovih škola je sa 558,869 u školskoj 2014/2015 godini pao na 517,826 u školskoj 2019/2020. Ovaj broj nam pokazuje da Srbija ima ogroman problem, osim što nacija ima visoku stopu mortaliteta i ubrzano stari, a ljudi se iseljavaju iz zemlje trbuhom za kruhom, opada i broj dece koja se rađa, navodeći na zaključak da Srbija umire kao nikad u prethodnoj istoriji. Ali o tome u nekom drugom tekstu.
 
 Kada je pacijent bolestan prvi korak ka ozdravljenju je uvek u psihi. Prihvatanje da treba otići lekaru ili menjati navike. Isto tako svako poboljšanje u sverama informatike i edukacije jedne zemlje povućiće za sobom mnogo pozitivnih promena u ekonomiji i drugim sistemima. Mada se često smatra da je politički vrh glava i nervni sistem zemlje, to ne mora da bude tako i mnoge promene o kojima ću pisati mogu se desiti bez čekanja na tromi državni birokratski aparat, naručito u sverama koje su javno dobro.
 
@@ -36,8 +36,9 @@ Da se vratimo na brojeve, Srbija trenutno ima:
 
 
 ## Šta je potrebno da bi se ostvarila ovakva ideja ili projekat?
-Da bi se projekat ostvario potrebno je samo 12% ili 6400 od svih ukupno zaposlenih nastavnika, koji treba da utroše približno 2 do 4 sata tokom jednog dana, kako bi snimili jedan video. Samo jedan video. Time bi se dobio video materijal za čitav projekat koji bi bio trajno dostupan svima dok god platforma postoji.
+Da bi se projekat ostvario nije potrebno mnogo. Sa samo 12% ili 6400 od svih ukupno zaposlenih nastavnika, koji treba da utroše približno 2 do 4 sata tokom jednog dana, kako bi snimili jedan video, samo jedan video, završili bi sve za jedan dan!
 Ako bi se odazvalo samo 100 predavača ili 0.2% svih zaposlenih, projekat bi mogao da se završi za 64 dana.
+Time bi se dobio video materijal za čitav projekat koji bi bio trajno dostupan svima dok god platforma postoji.
 
 
 ## Kako bi se platforma finansirala?
@@ -72,6 +73,14 @@ Ako ste neko ko želi da pomogne pošaljite mi e-mail na `prozirno.sve [AT] gmai
 
 Što se tiče ove ideje ili bilo koje ideje na ovom sajtu, šaljite mi svoje komenatare, ideje i predloge. Takođe biću vam zahvalan ako mi ukažete na slovne, gramatičke greške ili propuste semantičke prirode.
 
+
+## Dopune 
+
+### 23 April 2020
+Nako što je ovaj članak objavljen, prvi čitaoci su mi ljubazno ukazali da slična digitalna učila već postoje, da li time ova ideja i dalje ima smisao i zašto, možete pročitati ovde ["Digitalne škole - Izvodljivost"](/articles/digitalna-skola-izvodljivost/)
+
+
 <style>
     .img-mb-14 { margin-bottom: 14px; }
+    a { color: #6463ce; font-weight: 500; }
 </style>
