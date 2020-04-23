@@ -11,8 +11,6 @@ comments: true
 
 Nako što je objavljen članak o ["YouTube školi"](/articles/digitalna-skola/), prvi čitaoci su mi ljubazno ukazali da slična digitalna učila, barem što se digitalnih udžbenika i elektronskih školskih dnevnika tiče, već postoje i dostupna su svima u sklopu udžbenika koji moraju kupiti. Skoro svaka izdavačka kuća ima svoju digitalnu verziju.
 
-U čemu je onda problem, zašto se ovi resursi ne koriste?
-
 Pomenuću dva resursa:  
 - [petlja.org](https://petlja.org/) - resurs koji je javno dostupan fokusiran na informatiku.  
 - [eucionica.rs](https://eucionica.rs/) - rezultat rada izdavačkih kuća Klett, Logos i Freska i nudi elektronsku verziju udžbenika za sve udžbenike u njihovom izdanju. Slično njima rade i ostale izdavačke kuće.  
