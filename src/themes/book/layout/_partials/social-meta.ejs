@@ -1,0 +1,6 @@
+<meta property="og:title" content="<%= page.title %>">
+<meta property="og:description" content="<%= page.description %>">
+<meta property="og:image" content="<%- full_url_for(url_for(page.path)) + page.card %>">
+<meta property="og:url" content="<%- full_url_for(url_for(page.path)) %>">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="<%= config.title %>">

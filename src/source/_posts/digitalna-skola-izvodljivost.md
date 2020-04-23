@@ -2,7 +2,7 @@
 title: Digitalna škola - izvodljivost
 date: 2020-04-23 09:15:10
 tags: [skola, edukacija, digitalizacija, video, youtube, online]
-description: Obzirom da u Srbiji digitalna rešenja postoje, da li praviti dodatni video materijal ima smisla?
+description: Obzirom da u Srbiji digitalna rešenja postoje, da li pravljenje dodatnog video materijala ima smisla?
 card: video-skola.jpg
 comments: true
 ---
