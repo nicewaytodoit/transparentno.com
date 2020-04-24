@@ -1,20 +1,17 @@
 # Backlog - transparentno.com
+- Kontact strana
+- O meni
+- Usluge 
+
+
+
+
+
 - check functionalities 
 - create structure about what to write in Draft folder 
 - move README.md to src create another one which will explain purpose ...
 - Clanci su u ToDo listi 
 - kreirati letsEncrypt certifikat
-
-
-
---------------------------------------------
--- 2020-03-25 `DONE` list
-+ style right side menu 
-+ master / develop granch on git
-    + work only in develop and push requests (PRs)
-    + issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
-
-
 - home page fix
     - https://blog.oniuo.com/theme-inside / http://miccall.tech/ / https://blog.utone.xyz/
     - Recent 4
@@ -26,7 +23,22 @@
     - cloudfront url ?
 
 
+
+-------------------------------------------
+## 2020-04-24 `DONE` list
+
+
+
 ================================================================
+## 2020-04-23 `DONE` list
++ Adding Meta tags for Social Media Twitter Facebook etc.
+
+## 2020-03-25 `DONE` list
++ style right side menu 
++ master / develop granch on git
+    + work only in develop and push requests (PRs)
+    + issue with adjusting ^refs/heads/master$ "Start a build under these conditions" and source
+
 ## 2020-03-24 `DONE` list
 + create AWS s3 hosting 
     https://www.youtube.com/watch?v=_UFUm1sFbpw&feature=share
