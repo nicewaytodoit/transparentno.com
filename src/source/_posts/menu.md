@@ -2,6 +2,7 @@
 title: Menu
 date: 2020-03-19 20:00
 comments: false
+func: true
 ---
 
 # [ČLANCI](/archives)

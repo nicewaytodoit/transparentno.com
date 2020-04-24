@@ -2,12 +2,18 @@
 title: Changelog
 date: 2020-03-20 10:00
 comments: false
+func: true
 ---
 
-* Initial release
+**v0.0.3 - 2020/04/24**
+
+* Excluded functional pages from Archive
+
+**v0.0.2 - 2020/04/23**
+
+* Social Media Added 
 
 **v0.0.1 - 2020/03/19**
-
 
 * Initial commit
 
