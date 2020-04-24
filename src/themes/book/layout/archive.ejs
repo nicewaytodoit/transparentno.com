@@ -12,7 +12,7 @@
     <!-- Split post by year -->
     <%
         var years = {};
-        site.posts.sort('date').reverse().forEach(function(post){
+        site.posts.filter((post) => (post.func !== true)).sort('date').reverse().forEach(function(post){
             var year = post.date.year()
             if(years[year]===undefined){
                 years[year] = [];
