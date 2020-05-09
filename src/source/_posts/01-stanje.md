@@ -183,13 +183,13 @@ Mada su akcize, PDV, carina dobri jer na neki način štite domaću proizvodu, t
 
 Obzirom da je samo prihod na naftnim akcizama [1.4 milijarde EUR](http://www.parlament.gov.rs/upload/archive/files/cir/pdf/zakoni/2019/BUDZET%202020.pdf), a da su akcize u proseku [60 din po litru](https://www.paragraf.rs/propisi/zakon-o-akcizama.html) jasno je zašto u Srbiji naftni derivati ne pojeftinjuju - mada je cena po barellu (1 barel = 159 litara) pala sa $60 na $20 dolara (0.12$ po litru) tokom pandemije. Država koristi ovu zavisnost da bi se dokopala neophodnih sredstava za dalje ulaganje.
 
-> "U zdravom telu zdrav duh"
+Sve ovo nije jedini problem sa uvozom. Srbija uvozi ogromnu količinu proizvoda koji i sama proizvodi. Uvozi se svašta, od čačkalica i belog luka iz Kine, i pasulja iz Argentine, jabuka, kropmira, odeće i obuće, preko tehnike i automobila, pa sve do ljudske dlake i otpadnog stakla. Da bi se opisali neki od proizvoda koje Srbija uvozi, reč zapanjujuči nije dovoljna, ali baš u tome je šansa za brži razvoj.
 
-Postoji zavisna sprega između jedinke i sistema, da bi se stanje poboljšalo potrebna je obostrana promena. Promena uvek počinje sa vizijom šta želite da postignete i kakav život želite da imate, kako na ličnom tako i na nivou zemlje. Bez cilja, putovanje se svodi na besciljno lutanje a ekonomija na beznadežno manipulisanje brojevima. Ako imate cilj, želju da do tog cilja dođete i veru da to možete - sve ostalo su tehnikalije, to jest set određenih radnji koje se moraju uraditi da bi se do tog cilja došlo.
+Postoji zavisna sprega između jedinke i sistema, da bi se stanje poboljšalo potrebna je obostrana promena. Promena uvek počinje sa vizijom šta želite da postignete i kakav život želite da imate, kako na ličnom tako i na nivou zemlje. Bez cilja, putovanje se svodi na besciljno lutanje a ekonomija na beznadežno manipulisanje brojevima. Ako imate cilj, želju da do tog cilja dođete i veru da to možete - sve ostalo su tehnikalije, to jest set određenih radnji koje se moraju uraditi da bi se do tog cilja došlo. Ako je važi ona da je u "zdravom telu zdrav duh", i da "zdrav čovek ima hiljadu želja a bolestan samo jednu" onda osnovni fokus bolesnika treba da bude ozdravljenje, a za to su potrebni jaka volja, dobri misaoni procesi i akcije neophodne da bi do ozdravljenja došlo.
 
-Bez obzira koliko depresivno sve izgledalo postoje načini kako se situacija može značajno poboljšati. To što zemlja ima visoku stopu nezaposlenosti nije u problemu, čak je dobro ako ti ljudi žele da rade. U jednoj ekonomiji je moguće ostvariti i negativnu stopu nezaposlenosti, koja bi značajno ubrzala povećanje ukupnog standarda stanovništva. Ali to se može ostvariti samo ako ljudi žele da rade i usavršavaju se.
+Bez obzira koliko depresivno sve izgledalo postoje načini kako se situacija može značajno poboljšati. To što zemlja ima visoku stopu nezaposlenosti nije u problemu, čak je dobro ako ti ljudi žele da rade. U jednoj ekonomiji je moguće ostvariti i negativnu stopu nezaposlenosti, koja bi značajno ubrzala povećanje ukupnog standarda stanovništva. Ali to se može ostvariti samo ako ljudi žele da rade i usavršavaju se. 
 
-Sledeći put dotaću se globalne strategije i temelja koji je neophodan za razvoj i vraćanje snage u sve pa čak i najzabačenije krajeve zemlje.
+Sledeći put o globalnim strategijama i temelju koji je neophodan za razvoj svih pa čak i onih najzabačenije krajeve zemlje.
 
 <style>
     .img-mb-14 { margin-bottom: 14px; }
