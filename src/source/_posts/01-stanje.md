@@ -18,7 +18,7 @@ Da bi se ispostavila valjana dijagnoza, jer zaista je pacijent pred nama, probao
 
 Površina Srbije je 88,361 km2. Gustina naseljenosti je 79 stanovnika po kilometru kvadratnom ili drugim rečima na svakog čoveka dolazi 12,654 m2 ili **1.26 hektara zemlje**. Osim izlaza na more, Srbija ima sve što je potrebno za uspeh. Pa ipak i pored 5.1 miliona hektara poljoprivrednog zemljišta od čega je obradivo 4.2 miliona hektara, koristi se tek 3.35 miliona hektara. **Milion hektara je neobrađeno**<sup>[[*]](https://www.telegraf.rs/vesti/934199-pusto-i-sablasno-u-selima-sirom-srbije-145-000-kuca-u-kojima-niko-ne-zivi)</sup>. Razlog za ovo se može tražiti, između ostalog, i u velikoj unutrašnjoj migracija koju ćemo pomenuti kasnije.  
 
-Bitno je naglasiti da u modernoj globalnoj ekonomiji teritorija ne znači mnogo, zemlje sa mnogo manjom teritorijom od naše su ekonomski značajno uspešnije. Mada su prirodna i rudna bogatstva jedne zemlje od ključne važnosti u stanju izolacije, u globalnoj ekonomiji te grane ne moraju biti naj isplativije. Mnogo je bitniji intelektualni potencijal i koliko je zemlja sposobna da iskoristi postojeće resurse.
+Bitno je naglasiti da u modernoj globalnoj ekonomiji teritorija ne znači mnogo, zemlje sa mnogo manjom teritorijom od naše su ekonomski značajno uspešnije. Mada su prirodna i rudna bogatstva jedne zemlje od ključne važnosti u stanju izolacije, u globalnoj ekonomiji te grane ne moraju biti najisplativije. Mnogo je bitniji intelektualni potencijal i koliko je zemlja sposobna da iskoristi postojeće resurse.
 
 
 ## Stanovništvo
@@ -69,7 +69,7 @@ Javni sektor ima ukupno [599,994 zaposlenih](https://publikacije.stat.gov.rs/G20
 -- 149,375 - zdravstveni i socijalni rad 
 -- 146,156 - obrazovanje i kultura 
 
-Iz podatak uzetih od zavoda za statisiku nije mi poznato da li gore navedene brojke uključuju zaposlene u policiji, vojsci i bezbednosno-obaveštajnim službama Republike Srbije.
+Iz podataka uzetih od zavoda za statisiku nije mi poznato da li gore navedene brojke uključuju zaposlene u policiji, vojsci i bezbednosno-obaveštajnim službama Republike Srbije.
 
 Uzmemo li u obzir da je prosečna plata u javnom sektoru [60,000 dinara](https://www.blic.rs/biznis/vesti/u-javnom-sektoru-60000-dinara-u-privatnom-38000-svi-pricaju-o-vecim-platama-a-evo/wz2thry) to znači da je samo za potrebe ljudstva u javnom sektoru potrebno obezbediti 3.7 milijardi EUR godišnje.
 
@@ -81,8 +81,8 @@ Krajem 2018. godine bruto nacionalni dohodak je bio 50.6 milijardi dolara, ili 7
 
 U prikazanoj tabeli možete videti kako se Srbija drži u odnosu na zemlje u regionu. Ovoj listi su dodate četiri zemlje koje ne pripadaju regionu ali imaju približan broj stanovnika ili veličinu teritorije.
 
-Mada ovakvo poređenje može biti nezahvalno jer svaka zemlja ima svoje različitosti i drugačiji recept za uspeha, bitno je primetiti da u pojedinim slučajevima postoje anomalije. Iz ovih primera mi bi mogli naučiti mnogo toga, što nam može pomoći da napravimo bolju strategiju koja nas može bolje pozicionirati bez obzira na to što ne pripadamo Evropskoj Uniji. 
-U današnjoj ekonomiji poljoprivreda i proizvodnja hrane ne predstavljaju osnovni izvor prihoda. Dobar primer za to je Holandija koja sa veoma malom teritorijom po glavi stanovnika ostvaruje neverovatne ekonomske rezultate. Takeđe na primerima Irske, Holandije i Izraela se može videti da grane kao što su proizvodnja medicinske i farmaceutske opreme, elektronskih komponenti i informatičkih tehnologija ostvaruju više od 50% izvoza ovih zemlje.
+Mada ovakvo poređenje može biti nezahvalno jer svaka zemlja ima svoje različitosti i drugačiji recept za uspeh, bitno je primetiti da u pojedinim slučajevima postoje anomalije. Iz ovih primera bi mogli naučiti mnogo toga, što nam može pomoći da napravimo bolju strategiju koja nas može bolje pozicionirati bez obzira na to što ne pripadamo Evropskoj Uniji. 
+U današnjoj ekonomiji poljoprivreda i proizvodnja hrane ne predstavljaju osnovni izvor prihoda. Dobar primer za to je Holandija koja sa veoma malom teritorijom po glavi stanovnika ostvaruje neverovatne ekonomske rezultate. Takođe na primerima Irske, Holandije i Izraela se može videti da grane kao što su proizvodnja medicinske i farmaceutske opreme, elektronskih komponenti i informatičkih tehnologija ostvaruju više od 50% izvoza ovih zemlje.
 
 Na sve ovo treba dodati da 400,000 ljudi koji su na privremenom radu u inostranstvu, godišnje matici pošalju [3.5 milijardi EUR](https://www.blic.rs/biznis/zbog-povratka-gastarbajtera-gubimo-i-do-milijardu-evra-doznaka-400000-srba-vec-se/rmvn9rc), što predstavlja 7% ukupnog bruto društvenog proizvoda Srbije.
 
@@ -114,11 +114,11 @@ Sustići jednu ekonomiju nije isto što i sustići njen trenutni BDP. Slično ka
 Ukupni prihodi države su približno [11.2 milijarde EUR](http://www.parlament.gov.rs/upload/archive/files/cir/pdf/zakoni/2019/BUDZET%202020.pdf) 
 pri čemu će ukupna planirana potrošnja biti 11.4 milijarde EUR ili **-204.5 milliona EUR** u odnosu na ostvareni prihod. 
 
-Sredinom 2019. godine **javni duga je iznosio 23.8 milijardi EUR**. 
+Sredinom 2019. godine **javni dug je iznosio 23.8 milijardi EUR**. 
 
 Takođe, budžetom planiranim za 2020. godinu:  
 - izdaće se garancije bankama do iznosa od 752 milliona EUR.  
-- odobriće se projektni i programski zajmove do iznosa od 9.6 milijardi EUR.
+- odobriće se projektni i programski zajmovi do iznosa od 9.6 milijardi EUR.
 
 <img src="/articles/01-stanje/uvod-prihodi-budget-2020.jpg" width="350" title="Budžetski prihodi i primanja" alt="" class="img-mb-14">
 
@@ -164,7 +164,7 @@ Dodatnih [3.5 milijarde EUR](https://www.021.rs/story/Info/Biznis-i-ekonomija/22
 
 Kada se pacijent razboli i ode kod doktora, prva stvar koja sledi je pregled kako bi se postavila dijagnoza. Pacijent se žali na visok pritisak, ispade agresivnosti, gobitak energije, posrtanje...
 
-Što se teritorije tiče Srbiji osim mora i luke, ima sve. Imamo ravnicu, imamo reke i jezera, imamo šume i planine, imamo potencijal za turizam i uzgajanje hrane, i isto tako brda puna minerala neophodnih za razvoj bilo koje industrije. Klima nam nije ni previše hladna ni previše topla. Imamo dovoljan broj kišnih i sunčanih dana. Strateški položaj je baš na raskrsnici puteva između istoka i zapada i severa i juga, što je ekstremno dobro ako znate kako da taj potencijal iskoristite i veoma loše ako taj potencijal predate nekom drugom ili svima branite da prođu što se kroz mnogobrojne ratova već dešavalo. Mada su prirodni resursi ekstremno bitni u uslovima izolacije i razvoja unutrašnjeg potencija kad krećete od nule, oni ne moraju igrati glavnu ulogu u trenutnom svetu globalne ekonomije i informacija. Intelektualni potencijal jedne zemlje može predstavljati mnogo snažniji izvor ekonomske dobiti nego ono na šta smo se u Srbiji odavno navikli.
+Što se teritorije tiče Srbiji osim mora i luke, ima sve. Imamo ravnicu, imamo reke i jezera, imamo šume i planine, imamo potencijal za turizam i uzgajanje hrane, i isto tako brda puna minerala neophodnih za razvoj bilo koje industrije. Klima nam nije ni previše hladna ni previše topla. Imamo dovoljan broj kišnih i sunčanih dana. Strateški položaj je baš na raskrsnici puteva između istoka i zapada i severa i juga, što je ekstremno dobro ako znate kako da taj potencijal iskoristite i veoma loše ako taj potencijal predate nekom drugom ili svima branite da prođu što se kroz mnogobrojne ratove već dešavalo. Mada su prirodni resursi ekstremno bitni u uslovima izolacije i razvoja unutrašnjeg potencija kad krećete od nule, oni ne moraju igrati glavnu ulogu u trenutnom svetu globalne ekonomije i informacija. Intelektualni potencijal jedne zemlje može predstavljati mnogo snažniji izvor ekonomske dobiti nego ono na šta smo se u Srbiji odavno navikli.
 
 Problem je što je baš taj najvažniji, intelektualni potencijal počeo da nestaje, odlazi, osipa se. Intelektualci odlaze u inostranstvo a Srbija se brojčano smanjuje i odumire ogromnom brzinom. Da se jednog dana sva krv skoncentriše u nekoliko glavnih organa mozak, srce, pluća i želudac verovatno bi zaključili da je pacijent u stanju kome. To je upravo ono sa čime se Srbija suočava. Sela se gase, kuće zarastaju u korov i propadaju. Putevi se polako osipaju a zbog malog broja stanovnika transportne linije postaju ređe. Infrastruktura, pošte, prodavnice, ambulante, kafane i kafići, vodovod i vodovi električna mreže propadaju ili nestaju. I tako deo po deo delovi tela odumiru.
 
@@ -178,14 +178,14 @@ Budžet zemlje je relativno mali ali je u skladu sa BDP-om, međutim ako bolje p
 Šta ovo znači? 
 Zamislite da skenirate pacijenta, i vaša prva pomisao je "kakav haos koja je ovo budala uradila", nakon malo dužeg posmatranja počnete da shvatate genijalnost operativnog zahvata, jedinog koji je bio moguć u datom trenutku. Krvni sudovi srca potpomognuti sa bajpasovima do pluća, želudca i bubrega, svaki od ovih organa stvorio je dodatni pritisak neophodan da bi krv nastavila da se pumpa. Mada je u nedostatku vremena ovo bio jedini mogući potez da bi pacijent preživeo, sada taj isti utiče negativno na stanje pacijenta i preti da trajno destabilizuje njegovo stanje.
 
-Na primeru Britanske i Nemačke ekonomije može se videti da porez na prihod građana i pravnih subjekata predstavlja glavni izvor budžeta, to je jako srce - u našem slučaju ono jedva kuca. Dok ako pogledate podatak o prihodima vidite da se više od 65% prihoda budžeta zasniva na porezu na uvoznu robu, akcize na naftu, duvan i alkohol.
+Na primeru Britanske i Nemačke ekonomije može se videti da porez na prihod građana i pravnih subjekata predstavlja glavni izvor budžeta, to je jako srce - u našem slučaju ono jedva kuca. Dok ako pogledate podatke o prihodima vidite da se više od 65% prihoda budžeta zasniva na porezu na uvoznu robu, akcize na naftu, duvan i alkohol.
 Mada su akcize, PDV, carina dobri jer na neki način štite domaću proizvodnju, takođe su loši jer stvaraju zavisnost. I kroz podatke o uvozu i izvozu vidi se da je postignuta negativna povratna sprega, gde državi odgovara da se više uvozi jer se time više puni kasa. Ovaj trend je loš za zemlju jer novac izgubljen izvozom ne kruži unutar sistema već trajno nestaje, umesto da se kapital uvećava on se gubi. Takođe, treba primetiti da je ova zavisnost duplo zlo jer otežava razvoj zdravih navika. Primera radi: odvikavanje od nafte ili duvana bi značilo da država postaje siromašnija, samim tim državi odgovara da vas neki način "truje" figurativno i bukvalno jer se time održava njeno funkcionisanje.
 
 Obzirom da je samo prihod na naftnim akcizama [1.4 milijarde EUR](http://www.parlament.gov.rs/upload/archive/files/cir/pdf/zakoni/2019/BUDZET%202020.pdf), a da su akcize u proseku [60 din po litru](https://www.paragraf.rs/propisi/zakon-o-akcizama.html) jasno je zašto u Srbiji naftni derivati ne pojeftinjuju - mada je cena po barellu (1 barel = 159 litara) pala sa $60 na $20 dolara (0.12$ po litru) tokom pandemije. Država koristi ovu zavisnost da bi se dokopala neophodnih sredstava za dalje ulaganje.
 
 Dodatni problem uvoza je i to što se uvozi ogromnu količinu proizvoda koje i sami proizvodimo. Uvozi se svašta, od čačkalica i belog luka iz Kine, pasulja iz Argentine, jabuka, krompira, odeće i obuće, preko tehnike i automobila, pa sve do ljudske dlake i otpadnog stakla. Da bi se opisali neki od proizvoda koje Srbija uvozi, reč zapanjujući nije dovoljna, ali baš u tome je šansa za brži razvoj.
 
-Postoji zavisna sprega između jedinke i sistema, da bi se stanje poboljšalo potrebna je obostrana promena. Promena uvek počinje sa vizijom šta želite da postignete i kakav život želite da imate, kako na ličnom tako i na nivou zemlje. Bez cilja, putovanje se svodi na besciljno lutanje a ekonomija na beznadežno manipulisanje brojevima. Ako imate cilj, želju da do tog cilja dođete i veru da to možete - sve ostalo su tehnikalije, ili set određenih radnji koje se moraju uraditi da bi se do tog cilja došlo. Ako je važi ona da je u "zdravom telu zdrav duh", i da "zdrav čovek ima hiljadu želja a bolestan samo jednu" onda osnovni fokus bolesnika treba da bude ozdravljenje, a za to su potrebni jaka volja, dobri misaoni procesi i akcije neophodne da bi do ozdravljenja došlo.
+Postoji zavisna sprega između jedinke i sistema, da bi se stanje poboljšalo potrebna je obostrana promena. Promena uvek počinje sa vizijom šta želite da postignete i kakav život želite da imate, kako na ličnom tako i na nivou zemlje. Bez cilja, putovanje se svodi na besciljno lutanje a ekonomija na beznadežno manipulisanje brojevima. Ako imate cilj, želju da do tog cilja dođete i veru da to možete - sve ostalo su tehnikalije, ili set određenih radnji koje se moraju uraditi da bi se do tog cilja došlo. Ako važi ona da je u "zdravom telu zdrav duh", i da "zdrav čovek ima hiljadu želja a bolestan samo jednu" onda osnovni fokus bolesnika treba da bude ozdravljenje, a za to su potrebni jaka volja, dobri misaoni procesi i akcije neophodne da bi do ozdravljenja došlo.
 
 Bez obzira koliko depresivno sve izgledalo postoje načini kako se situacija može značajno poboljšati. To što zemlja ima visoku stopu nezaposlenosti nije problem, i može se iskoristiti za brz rast. U jednoj ekonomiji je moguće ostvariti i negativnu stopu nezaposlenosti, koja bi značajno ubrzala povećanje ukupnog standarda stanovništva. Ali preduslov za to je da ljudi žele da rade i usavršavaju se. 
 

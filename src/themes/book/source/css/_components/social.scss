@@ -1,0 +1,42 @@
+.social {
+  display: flex;
+  position: relative;
+  top: 2.2rem;
+  height: $sidebar-brand-height;
+  justify-content: center;
+  width: $sidebar-width;
+
+  .social-icons {
+    list-style-type: none;
+    display: flex;
+    margin: 0 !important;
+    padding: 0 !important;
+
+    li {
+      padding: 5px;
+      a {
+        display: inline-flex;
+        align-items: center;
+    
+        font-size: $sidebar-brand-fsize;
+        font-weight: bold;
+        color: $book-primary-link-color;
+        text-decoration: none;
+    
+        img {
+          height: $sidebar-brand-fsize * 2;
+          width: $sidebar-brand-fsize * 2;
+        }
+    
+        span {
+          margin-left: 0.5rem;
+        }
+      }
+    
+      a:hover {
+        color: $book-primary-link-color;
+        text-decoration: none;
+      }
+    }
+  }
+}
