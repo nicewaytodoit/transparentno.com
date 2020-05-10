@@ -35,6 +35,8 @@ Srbija ne gubi stanovništvo samo kroz negativne trendove prirodnog priraštaja 
 
 Među njima veoma često su visoko školovani kadrovi. Doktori, arhitekte, inženjeri raznih struka - odlaze tamo negde preko, gde za za relativno kratko vreme stiču ono što nisu mogli ni da sanjaju u Srbiji. Sledeći put kad na TV ekranima vidite politička razmetanja, spletke i malverzacije, setite se da je sve to ništa u poređenju sa bogatstvom koje Srbija gubi sa pameću koja odlazi. To neprocenjivo bogatstvo je često trajno izgubljeno. Retki slučajevi povratka su najčešće anegdotskog tipa. 
 
+Ruski nobelovac Pjotr Kapica jednom je rekao "Dovoljno je da iz jedne zemlje ode 50 vrhunskih naučnika, pa da nauka bude obezglavljena!", po podacima prof. dr Jovana Filipovića sa Fakulteta organizacionih nauka izvan Srbije se nalazi 5.000 naših doktora nauka.
+
 #### Unutrašnja migracija
 Osim spoljnje migracije i ona unutrašnja ostavlja negativne posledice. Stanovništvo se masovno seli ka većim gradovim napuštajući manje sredine. Od 4709 sela, 1.200 je u fazi nestajanja. 550 sela ima manje od 50 stanovnika, u 500 ne postoji asfaltni put ni veza sa svetom, a 230 nema osnovne škole. Dve trećine nema ambulante. 400 sela u Srbiji nema prodavnice.<sup>[[*]](https://www.espreso.rs/vesti/drustvo/298123/ljudi-srbija-izumire-nece-imati-ko-da-ugasi-svetlo-da-li-je-ova-jeziva-statistika-bilo-koga-u-drzavi-zabrinula)</sup>
 
