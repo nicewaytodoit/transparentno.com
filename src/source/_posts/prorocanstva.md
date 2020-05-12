@@ -42,7 +42,7 @@ Ako posle svega i dalje niste u stanju da odbacite proročanstva kao što je Kre
 
 "Ondak će poći svi narodi i zemlja će postati prava rajska bašča. Hrana će iznicati svuđe, i u rijekama, morima i šumama. Oni, koji se ondak rode živjeće srećno i dugovječno da će i zaboraviti kad su se rodili."
 
-A ako već verujemo da će se to desiti, zašto ne uraditi sve moguće što je u našoj moći da se to desi što pre, kako bi mi bili ljudi koji će to dobro vreme iskusiti?
+Ako smo odlučili da verujemo Kremanskom proročanstvu onda moramo verovati i ovom odlomku. Zašto onda ne uraditi sve moguće što je u našoj moći da se to desi što pre, kako bi mi bili ljudi koji će sve te dobre stvari iskusiti?
 
 Eto, na kraju nadam se da ćete smoći snage da preispitajte stvari u koje verujete, ko zna možda će vam to dati uvid kako da poboljšate stvari u vašem životu.
 
