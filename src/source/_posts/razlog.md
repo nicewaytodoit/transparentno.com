@@ -21,7 +21,7 @@ Razmišljam o tome, ostavim posao koji radim, i pomislim:
 
 Iz tih pitanja, javila se jednostavna misao: "hajde da sebi dam odgovor na ta pitanja".
 
-Obišao sam svet, upoznao mnoge ljudske rase, i shvatio da je svuda isto. Imaju neki jezik, neke ljudske osobine, neke životinjske, neku kulturu, i sve je manje isto. Neki žive bolje neki lošije, negde ima više mesta za zabavu ili prilika za zaradu ali je sve tu negde. Svi ljudi na kraju krajeva imaju prilično sličan DNK, a razlike između mene i bilo kog drugog čoveka na planeti su neznatne. Ali, kako ono kažu? "Djavo je u detaljima", i jest, naručito ako ga tražite.
+Obišao sam svet, upoznao mnoge ljudske rase, i shvatio da je svuda isto. Imaju neki jezik, neke ljudske osobine, neke životinjske, neku kulturu, i sve je manje isto. Neki žive bolje neki lošije, negde ima više mesta za zabavu ili prilika za zaradu ali je sve tu negde. Svi ljudi na kraju krajeva imaju prilično sličan DNK, a razlike između mene i bilo kog drugog čoveka na planeti su neznatne. Ali, kako ono kažu? "Djavo je u detaljima", i jest, naročito ako ga tražite.
 
 Odrastao sam na selu, studirao u gradu, radio u prestonici, otišao u drugu zemlju da vidim više. Video sam da su zgrade slične kao i u Srbiji, pravila slična, navike slične. Video sam dosta, ali što se ljudi tiče sve je isto. Uzmite prosečno selo i pomnožite ga nekoliko hiljada puta dobićete neki veliki gradi i ljude u njemu. Ima i dobrih i lošim. Oni koji su bogati u selu, u gradovima postoji hiljadama puta bogatiji isto tako postoji hiljadama puta pametnijih, kulturnijih, boljih ali isto tako hiljadama puta glupljih, luđih, bahatijih, lošijih i zlobnijih. Gradovi su kao polje gravitacije koje pojačava sve. Ali većinom, svi su slični.
 

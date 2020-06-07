@@ -45,6 +45,6 @@ Svaki dan čovek ima prilično veliki broj opcije koje može odabrati. Njegov da
 
 Da bi se desilo nešto drugačije u odnosu na ono što već jeste - treba pokušati nešto novo. Ovo pravilo važi kako za najmanju jedinku društva, tako i za čitavu ljudsku civilizaciju. Naravno, da bi došli do cilja kome težimo, biće neophodno da platimo cenu svakog od tih odabranih puteva. 
 
-Prvo ćemo razmotriti **trenutno stanje** a nakon toga koji su to moguće opcije pred nama, razmatrajući prethodno infrastrukturne temlj kao što su telekomunikacije, informatika, transportna i finansiska mreža. Radovi na većini ovih stvari su već započeti ja ću pokušati da analizirati šta je dodatno neophodno da bi se zemlja ubrzanije razvijala i ostvarila neke od svojih kolektivnih ciljeva.
+Prvo ćemo razmotriti **trenutno stanje** a nakon toga koji su to moguće opcije pred nama, razmatrajući prethodno infrastrukturne temlj kao što su telekomunikacije, informatika, transportna i finansijska mreža. Radovi na većini ovih stvari su već započeti ja ću pokušati da analizirati šta je dodatno neophodno da bi se zemlja ubrzanije razvijala i ostvarila neke od svojih kolektivnih ciljeva.
 
 Pa da krenemo, sa sledećim tekstom - [Stanje](/articles/01-stanje/)

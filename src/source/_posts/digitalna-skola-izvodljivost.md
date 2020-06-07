@@ -25,7 +25,7 @@ Mada u tom lancu postoje slabe tačke i mesta gde je moguće manipulisati sistem
 
 Postavljaju se sledeća pitanje: 
 - Koliko od pomenutih 517 hiljada dece nema bar jedan od digitalnih uređaja kao što su: pametni telefon, tablet ili laptop? I koliko učeničkih porodica nema sredstva ili pristup neograničenom internetu?
-Mada sam dobio odgovore (poneke slične slikama koju možete videti na ulicama mnogih svetskih metropola) koji kaže da je danas veća verovatnoća da će ljudi imati pametni uređaj nego hranu da preguraju dan, trebalo bi uraditi analizu koja bi pokazala kakva je realna situacija naručito što se tiče ruralnog stanovništva ([43.6%](http://www.dgt.uns.ac.rs/download/seoskitur1.pdf) ukupnog stanovništva).
+Mada sam dobio odgovore (poneke slične slikama koju možete videti na ulicama mnogih svetskih metropola) koji kaže da je danas veća verovatnoća da će ljudi imati pametni uređaj nego hranu da preguraju dan, trebalo bi uraditi analizu koja bi pokazala kakva je realna situacija naročito što se tiče ruralnog stanovništva ([43.6%](http://www.dgt.uns.ac.rs/download/seoskitur1.pdf) ukupnog stanovništva).
 
 - Koliki je otpor dece/prosvetnog kadra prema novim tehnologijama?
 Bar na veoma malom ispitanom uzorku ispostavilo se da otpornost i dalje postoji, i mada su deca odrasla okružena tehnologijama i mada veoma brzo prihvataju novo, deca često nisu ni svesna ovih resursa mada su ti resursi priloženi često u vidu dodatnog CD/DVD-a, pri čemu problem može biti i to što pametni telefoni, tableti pa čak i novi laptopovi ne koriste više CD/DVD-ove (problem zastarele tehnologije). 

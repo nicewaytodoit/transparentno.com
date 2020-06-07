@@ -64,10 +64,10 @@ svetu gde ni jedna zemlja ne postoji kao izolovan sistem sama za sebe, prilikom 
 
 Teme koje će biti obrađene o potrebama infrastrukture su:
 
-- Telekomunikaciona mreža
-- Informaciona mreža
-- Transportna mreža
-- Energetska mreža
+- [Telekomunikaciona mreža](/articles/11-telekomunikaciona-mreza)
+- [Informaciona mreža](/articles/12-informaciona-mreza)
+- [Transportna mreža](/articles/13-transportna-mreza)
+- [Energetska mreža](/articles/14-energetska-mreza)
 - Finansijska mreža
 - Informatička infrastruktura
 - Mreža ljudi
@@ -79,4 +79,4 @@ Primer bi bila komunikacija u kojoj umesto da povećavate brzinu protoka sa 1Mb 
 
 Sledeći tekst je - Telekomunikaciona mreža.
 
-U međuvremenu, dok link ne postane aktivan, ako vam se sviđa ovo o čemu pišem pročitajte ovaj tekst - [Moba](/articles/moba/).
+U međuvremenu, dok link ne postane aktivan, ako vam se sviđa ovo o čemu pišem pročitajte ovaj tekst - [Moba](/articles/moba).
