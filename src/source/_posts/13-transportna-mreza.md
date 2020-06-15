@@ -114,4 +114,6 @@ Ekonomski gledano, bilo koji transportni projet da je u pitanju, uvek se moraju 
 Urbani planeri, arhitekte, dizajneri eksterijera kao i razne vrste inžinjera i projektanata koji obično moraju raditi zajedno, su ti koji će dati budući izgled naše zemlje. Njihov zadatak je da dizajniraju infrastrukturu koja će ljudima pružiti osećaj povezanosti i motivisati ih da sami urade nešto kreativno. 
 Koliko su oni talentovani i prosvetljeni zavisiće da li će Srbija biti tehnološki raj i zelena oaza sa čistim vazduhom, vodom i hranom; ili će ličiti na betonsku šumu sa građevinama u obliku falusa nastale kao izliv frustracije i nezadovoljstva naroda prema aktuelnoj vlasti. <sup>[[*]](https://www.gradjevinarstvo.rs/tekstovi/5400/820/futuristicki-pariz-je-prepun-bujnih-zelenih-nebodera)</sup>
 
+<img src="/articles/13-transportna-mreza/past-future.jpg" width="200" title="Prošlost i sadašnjost" alt="" class="img-mb-14">
+
 Za ovo su nam potrebni vizionari koji bez obzira na prošlost i sadašnjost mogu da zamisle raj u kojem želimo da živimo. Potrebni su nam i hrabri/nepokolebljivi lideri koji te vizije mogu da sprovedu u delo, i vredni ljudi koji svojim radom planove i snove mogu preobraziti u stvarnost.
