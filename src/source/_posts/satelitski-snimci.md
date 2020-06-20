@@ -39,7 +39,7 @@ Umesto da se priča i diskutuje idejama, ovde se ljudi nadugačko i naširoko sv
 
 Patriotizam je i dalje prisutan, samo se pitam dokle će narodna grbača moći sav taj njihov "patriotizam" da ponese i podnese, uzimajući u obzir da svake godine 30000 visokoškolovanih ode a umre najmanje isto toliko stanovnika.
 
-Krivo mi je što je jedina ideja koju mogu da smisle - kupovina iz inostranstva. I onda se kuka da nema novca za investicije, nema novca za razvoj, kuka se zašto ljudi odlaze - naravno da ima novca gospodo ali ga traćite, još gore od onih što su tu bili pre vas.
+Krivo mi je što je jedina ideja koju mogu da smisle - kupovina iz inostranstva. I onda se kuka da nema novca za investicije, nema novca za razvoj, kuka se zašto ljudi odlaze - naravno da ima novca gospodo političari ali ga traćite, još gore od onih što su tu bili pre vas.
 
 Neko će po običaju reći: "Pa što bi mi ulagali u naš razvoj kad to neko već radi mnogo bolje od nas?"
 
