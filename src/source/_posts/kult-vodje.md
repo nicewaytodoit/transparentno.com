@@ -41,6 +41,6 @@ Zato nam treba dobar sistem, državni sistem, pravni sistem, sistem obrazovanja.
 
 Demokratija je dobra kad se ljudi koji čine vlast menjaju bez ikakve drame. Ako vas je vlast slagala menjajte je. Može se oprostiti jednom dvaput, ali ako postane navika menjajte. Trump je slagao 18000 puta i svi su opet za njega. Krađe, korupcija, lažirane diplome, i svakodnevno reklama, i posle svega ljudi kažu "pa nije on toliko loš, pa vidiš da nema nikog drugog"... ako nema nikoga drugog onda ne glasaj. Ne glasaj ni za starog, ni za novog. Bolje i to nego biti saučesnik u tuđem zločinu.
 
-Prvi uslov upravljama kočijama sopstvenog života podrazumeva uzmanje uzdi i odgovornosti koja sa tim dolazi. Krenete da upravaljate sopstvenim životom bez obzira na okolnosti oko vas. Probate sami da mislimo za sebe i da se izborite za bolji život. Od očekivanje da će se svet promeniti nema ništa. Umesto toga bolje je pokušati da ga sami promenite, bar na malo bolji - za vas, vašu porodicu i sve one ostale oko vas. 
+Prvi uslov upravljama kočijama sopstvenog života podrazumeva uzmanje uzdi i odgovornosti koja sa tim dolazi. Krenete da upravaljate sopstvenim životom bez obzira na okolnosti oko vas. Probajte sami da mislite za sebe i da se izborite za bolji život. Od očekivanje da će se svet promeniti nema ništa. Umesto toga bolje je pokušati da ga sami promenite, bar na malo bolji - za vas, vašu porodicu i sve one ostale oko vas. 
 
 Postavite pitanja: Šta ja mogu da uradim? Da li možemo da uradimo nešto zajedno?
