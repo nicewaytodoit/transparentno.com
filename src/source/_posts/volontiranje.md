@@ -16,13 +16,13 @@ comments: true
 
 # Volontiranje
 
-Reč volontiranje potiče od latinske glagola *voluntarius* koji znači voljan ili njegovim ličnim izborom, a nastao je od imenice *voluntas* koja se može prevesti kao volja ili želja. Prvobitno ovaj termin je bio povezan sa dobrovoljnim stupanjem u vojne redove radi odbrane zemlje, kasnije on je označavao pružanje pomoći ugroženima kojima je ona bila neophodna, bez bilo kakve materijalne nadoknade.
+Reč volontiranje potiče od latinske glagola *voluntarius* koji znači voljan ili "njegovim ličnim izborom", a nastao je od imenice *voluntas* koja se može prevesti kao volja ili želja. Prvobitno ovaj termin je bio povezan sa dobrovoljnim stupanjem u vojne redove radi odbrane zemlje, kasnije on je označavao pružanje pomoći ugroženima kojima je ona bila neophodna, bez bilo kakve materijalne nadoknade.
  
 Da bi neko bio volonter potrebna je volja, želja i pre svega humanost da se nekome pomogne.
 
-Tokom perioda socijalizma kroz koji je ova zemlja prolazila, angažovanje pojedinaca ili grupe ljudi u takozvane radne akcije, je bio značajan element izgradnje infrastrukture zemlje. Putevi, pruge, irigacioni sistem, vodovi za plin ili kanalizaciju obično su rađeni sa ogromnim brojem ljudi koji nisu dobijali nikakvu naknadu osim minimuma hrane i smeštaja. Tad, kao i danas tokom elementarnih nepogoda kao što su bile poplave 2014 ljudi su se spontano samoorganizovali da pomognu.
+Tokom perioda socijalizma kroz koji je ova zemlja prolazila, angažovanje pojedinaca ili grupe ljudi u takozvane radne akcije, je bio značajan element izgradnje infrastrukture zemlje. Putevi, pruge, irigacioni sistem, vodovi za plin ili kanalizaciju obično su rađeni sa ogromnim brojem ljudi koji nisu dobijali nikakvu naknadu osim minimuma hrane i smeštaja. Tad, kao i danas tokom elementarnih nepogoda kao što su bile poplave 2014. ljudi su se spontano samoorganizovali da pomognu.
 
-Što se sveta tiče volontiri su nezamenjiva vojska, oni pomažu razne humanitarne, socijalne, verske ali i političke aktivnosti koje se bave pospešivanjem ljudskih prava i demokratije. U poslednjih nekoliko decenija, a naručito u ovoj, sve je veća potreba i za volonterima ili aktivistima u oblasti zaštite životne sredine gde se vazduh, reke, priroda i zemlja besumučno uništavaju i zagađuju.
+Što se sveta tiče volonteri su nezamenjiva vojska, oni pomažu razne humanitarne, socijalne, verske ali i političke aktivnosti koje se bave pospešivanjem ljudskih prava i demokratije. U poslednjih nekoliko decenija, a naručito u ovoj, sve je veća potreba za volonterima ili aktivistima u oblasti zaštite životne sredine gde se vazduh, reke, priroda i zemlja besumučno uništavaju i zagađuju.
 
 Šta je konkretan problem koji vidite u svojoj okolini?
 Da li je u pitanju smeće, zagađena voda, prljave reke, divlje deponije, da li je to politička korupcija, javašluk ili sloboda govora, da li su u pitanju siromašni ljudi, ili ugrožene životinje, možda nedostatak drveća? Šta je problem koji vas najviše nervira?

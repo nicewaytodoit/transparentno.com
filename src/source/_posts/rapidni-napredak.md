@@ -22,7 +22,7 @@ Kako napredovati u situaciji kada je zemlja tehnološki nerazvijena i kada ne po
 
 Ako pogledamo nagli napredak Kine, ne možemo se oteti ideji da je za kratko vreme postala fabrika sveta. Mahom za ovo je zadužena bila mnogoljudnost, jeftina radna snaga ali i kvazi socijalistički sistem koji pradoksalno dozvoljava kapitalističko ustrojstvo ekonomije. U pozadini svega ležala je masovna krađa patenata i plagiranje tehnologije. Industrijalci sveta su sve ovo oprostili Kini, zbog jeftine radne snage i profita koji su ostvarivali. 
 
-U filmu Srđana Dragojevića "Sveti Georgije ubiva aždahu" provlači se ideja da ljudi sa prostora balkana nisu potomci najboljih i najačih, nego potomci bogalja, prosjaka i lopova, onih koji bi ostajali u pozadini dok su oni najbolji išli da ginu negde na frontu. Tu negde u tim mislima provlači se još jedna samo okrivljujuća ideja, protivteža nacionalnom ponosu koji kaže da su ljudi ovih prostora - nebeski narod. 
+U filmu Srđana Dragojevića "Sveti Georgije ubiva aždahu" provlači se ideja da ljudi sa prostora Balkana nisu potomci najboljih i najačih, nego potomci bogalja, prosjaka i lopova, onih koji bi ostajali u pozadini dok su oni najbolji išli da ginu negde na frontu. Tu negde u tim mislima provlači se još jedna samo okrivljujuća ideja, protivteža nacionalnom ponosu koji kaže da su ljudi ovih prostora - nebeski narod. 
 
 Između te dve krajnosti kako naći put?
 
@@ -37,6 +37,6 @@ To je način kako mi treba da radimo, i na šta treba da se se skoncentrišemo. 
 
 "Pretpostavljam da je primamljivo, da ako je jedini alat koji imate čekić, sve tretirati kao ekser" — Abraham Maslow, 1966
 
-Nemamo više vremena da čekamo, naš život prolazi, zemlja se osipa, a vlast jedino vidi prosperitet u iznajmljivanju jeftine radne snage ove zemlje stranim investitorima. Na žalost obzirom da veštačka inteligencija brzo napreduje, kao što neko reče "biče srećni oni koji budu eksploatisani", ponestaje nam prostor za manevrisanje i pogrešne političke korake.
+Nemamo više vremena da čekamo, naš život prolazi, zemlja se osipa, a vlast jedino vidi prosperitet u iznajmljivanju jeftine radne snage ove zemlje stranim investitorima. Na žalost obzirom da veštačka inteligencija brzo napreduje, kao što neko reče "biće srećni oni koji budu eksploatisani", ponestaje nam prostor za manevrisanje i pogrešne političke korake.
 
 Još ima vremena za bolji načini, mnogo bolji način, sistem koji će raditi za sve, a o tome ću pisati u nekom drugom članku.
