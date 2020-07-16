@@ -63,7 +63,7 @@ comments: true
 
     Dobra vest je da se kao mnoge druge veštine odricanje može naučiti i izvežbati u bilo kom periodu života, što će u mnogome pomoći dostizanju uspeha.
 
-    Zašto je to tako? U ekonomskom smislu naručito kada se radi o ličnom bogatstvu, ili gledanja iz ugla države nekada je potrebno štedeti i odricati se nepotrebnih stvari da bi kasnije mogli da uživamo mnogo veću nagradu. Primera radi: sa samo sat vremena dnevno učenja, umesto igranja video igrica ili gledanja televizije, za nekoliko meseci može formirati veštine koje mogu doneti novi posao i mnogo bolju zaradu. Takođe, možda jedna čokolada ne znači ništa ali na godišnjem nivou može značiti 10 kg manje telesne težine i ušteđenih par hiljada koje se mogu uložiti u posao.
+    Zašto je to tako? U ekonomskom smislu naročito kada se radi o ličnom bogatstvu, ili gledanja iz ugla države nekada je potrebno štedeti i odricati se nepotrebnih stvari da bi kasnije mogli da uživamo mnogo veću nagradu. Primera radi: sa samo sat vremena dnevno učenja, umesto igranja video igrica ili gledanja televizije, za nekoliko meseci može formirati veštine koje mogu doneti novi posao i mnogo bolju zaradu. Takođe, možda jedna čokolada ne znači ništa ali na godišnjem nivou može značiti 10 kg manje telesne težine i ušteđenih par hiljada koje se mogu uložiti u posao.
     
     Da bi dostigli bilo šta više u životu, potrebno je uložiti trud i odreći se nečega čime već okupiramo naše vreme. Post je dobar put ka tome, pri čemu treba imati na umu da je često bolje raditi pametno nego fizički naporno.
 

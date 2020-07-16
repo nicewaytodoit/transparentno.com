@@ -22,7 +22,7 @@ Da bi neko bio volonter potrebna je volja, želja i pre svega humanost da se nek
 
 Tokom perioda socijalizma kroz koji je ova zemlja prolazila, angažovanje pojedinaca ili grupe ljudi u takozvane radne akcije, je bio značajan element izgradnje infrastrukture zemlje. Putevi, pruge, irigacioni sistem, vodovi za plin ili kanalizaciju obično su rađeni sa ogromnim brojem ljudi koji nisu dobijali nikakvu naknadu osim minimuma hrane i smeštaja. Tad, kao i danas tokom elementarnih nepogoda kao što su bile poplave 2014. ljudi su se spontano samoorganizovali da pomognu.
 
-Što se sveta tiče volonteri su nezamenjiva vojska, oni pomažu razne humanitarne, socijalne, verske ali i političke aktivnosti koje se bave pospešivanjem ljudskih prava i demokratije. U poslednjih nekoliko decenija, a naručito u ovoj, sve je veća potreba za volonterima ili aktivistima u oblasti zaštite životne sredine gde se vazduh, reke, priroda i zemlja besumučno uništavaju i zagađuju.
+Što se sveta tiče volonteri su nezamenjiva vojska, oni pomažu razne humanitarne, socijalne, verske ali i političke aktivnosti koje se bave pospešivanjem ljudskih prava i demokratije. U poslednjih nekoliko decenija, a naročito u ovoj, sve je veća potreba za volonterima ili aktivistima u oblasti zaštite životne sredine gde se vazduh, reke, priroda i zemlja besumučno uništavaju i zagađuju.
 
 Šta je konkretan problem koji vidite u svojoj okolini?
 Da li je u pitanju smeće, zagađena voda, prljave reke, divlje deponije, da li je to politička korupcija, javašluk ili sloboda govora, da li su u pitanju siromašni ljudi, ili ugrožene životinje, možda nedostatak drveća? Šta je problem koji vas najviše nervira?
@@ -36,7 +36,7 @@ Zbog ugrađene greške u našem sistemu vrednosti volonterski ciljevi paradoksal
 Volontiranje može biti mnogo toga:
 - akcije čišćenja smeća u prirodi
 - doniranje vremena kako bi se postigao neki društveno koristian cilj
-- volontiranje može biti pomoć u ostvarivanju ideje ili započinjanja biznisa naručito kad članovi imaju samo ideju ali ne i iskustvo, ovde iskusniji članovi društva mogu pružiti mnoge, pravne, knjigovodstvene i mnoge druge savete...
+- volontiranje može biti pomoć u ostvarivanju ideje ili započinjanja biznisa naročito kad članovi imaju samo ideju ali ne i iskustvo, ovde iskusniji članovi društva mogu pružiti mnoge, pravne, knjigovodstvene i mnoge druge savete...
 - može se i volontirati da bi se došlo do radnog iskustva, posla ili da bi se kasnije kreirao start-up.  
 - volontiranje može biti i na internetu, mnogim projektima je potrebna veća mediska pokrivenost ili socijalna svesnost, ovde je dovoljno deljenje, lajkovanje, subscribovanje na nečiji kanal ili čak pričanje o nekoj ideji sa ljudima koji se nalaze u vašem socijalnom krugu.
 - može se volontirati i računarsko vreme, pa tako postoje mnogi naučni projekti koji zahtevaju ogroman broj računara koji bi obrađivali podatke, oni koriste deo vremena procesora i memorije vašeg računara kako bi radili na malom deliću posla. Obzirom da se radi o matematici velikih brojeva, kada se udruži ogroman broj računara - na ovaj način, oni mogu postići mnogo više nego što bi to bilo moguće jednom računarskom centru.

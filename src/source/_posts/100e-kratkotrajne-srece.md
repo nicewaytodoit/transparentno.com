@@ -22,7 +22,7 @@ Ovih dana udarna vest je bila raspodela 100 evra na nešto malo više od [6 mili
 Neću mnogo ulaziti u semantike izjave da je "vlast dala" ljudima 100 evra jer je država dobro radila zahvaljujući dobroj politici, pa je zaradila nekakav višak (mada je BDP Srbije od 2007 ostao praktično nepromenjen) pa sada imaju da daju nekih 600 miliona evra ili otrpilike [5% godišnjeg budžeta](http://rs.n1info.com/Biznis/a547662/Usvojen-budzet-za-2020.-godinu.html), samo želim da naglasim da vlast kao i **nijedna druga vladajuća stranka ne daje bilo šta** iz svog džepa, **oni samo preraspodeljuju novac koji je već vaš, zadužuju se od stranih kreditora ili pozajmljuju novac od budućih generacija koje će to skupo platiti**.
 
 Znam da postoje mnogi u Srbiji kojima tih 100 evra znači užasno mnogo, možda i preživljavanje, dok je drugima to samo dobro došao dodatak, koji će se potrošiti isto onako kako je i došao.
-Ovde želim da samo postavim jedno drugo pitanje. Novac iz helihoptera zna da pokrene ekonomiju naručito ako se ona zasniva na domaćoj proizvodnji, međutim u našem slučaju, u kojem je uvoz značajno veći od izvoza, vlika je verovatnoća da će taj novac završiti negde napolju.
+Ovde želim da samo postavim jedno drugo pitanje. Novac iz helihoptera zna da pokrene ekonomiju naročito ako se ona zasniva na domaćoj proizvodnji, međutim u našem slučaju, u kojem je uvoz značajno veći od izvoza, vlika je verovatnoća da će taj novac završiti negde napolju.
 
 Postavlja se pitanje koliko je zaista građana trebalo da dobije ovu pomoć, i da li smo taj novac mogli nekako bolje upotrebiti?
 
