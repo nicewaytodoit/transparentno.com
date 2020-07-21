@@ -38,7 +38,7 @@ U tom pogledu sasvim su normalni dogovori o razmeni tehnologija. A gde to nije m
 
 Postavlja se pitanje koje su to grane privrede koje treba da razvijamo i da stavimo naglasak sledećih 10 godina i čemu bi se mogli nadati 2030. godine ako odigramo sve kako treba?
 
-- **Informatika** - (vrednost 40 miliardi evra)
+- [**Informatika**](/articles/22-informatika/) - (vrednost 40 miliardi evra)
     - uslužna ili takozvani outsourcing gde srpski programeri rade na projektima stranih klijenata
     - naši tehnološko informatički startupi za lolakno tržište
     - naši startupi za svetsko tržište gde mi postajemo globalna "pijaca ili put" za sve korisnike interneta (Facebook, Viber, Tinder, TikTok...) 
