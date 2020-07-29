@@ -234,7 +234,33 @@ Gore navedene ideje bi osigurale dotok outsourcing poslova iz inostranstva i nas
 
 Obzirom da informatika ne zahteva da bude stacionirana u glavnom gradu, moderni informatički kampusi mogu početi da se grade u napuštenim selima kao svojevrsna verzija malih Ekoloških rajeva. Ako se sve odradi kako treba i obezbedi neophodna infrastruktura kako sam pominjao u tekstovima o [Komunikacionoj i informaciona mreži](/articles/11-telekomunikaciona-mreza/) i [Transportnoj mreži](/articles/13-transportna-mreza/) ovi ljudi mogu povući svoje porodice, što će vratiti ljude u ruralne predele ali i kreirati priliku za razvoj ne samo seoskog nego i modernog ekološkog turizama. U tom smislu mladi i maštoviti dizajneri i arhitekte imali bi priliku da izmaštaju svoje vizije raja što bi onda potpomoglo razvoj domaće arhitekture i građevine. 
 
-Takođe, nadaleko je poznato da implementiranje SAP/ERP softwara nemačke kompanije [SAP SE](https://en.wikipedia.org/wiki/SAP), kompanijama koje ga uvode automatski povećava vrednost za nekoliko miliona. U 2019. godini SAP SE je sa svojih 100 hiljada zaposlenih napravio zaradu od 27 milijardi evra. Twitter je sa svojih 4600 zaposlenih zaradio 3.46 milijardi. [Facebook](https://en.wikipedia.org/wiki/Facebook,_Inc.) je sa nešto manje od 45 hiljada zaposlenih ostvario zaradu od neverovatnih 70.6 milijardi dolara što zanči da je svaki zaposleni ostvario dobit od preko 1.5 miliona dolara. <sup>[[*]](https://www.visualcapitalist.com/top-20-tech-companies-revenue-per-employee/)</sup>
+Takođe, nadaleko je poznato da implementiranje SAP/ERP softwara nemačke kompanije [SAP SE](https://en.wikipedia.org/wiki/SAP), kompanijama koje ga uvode automatski povećava vrednost za nekoliko miliona. U 2019. godini SAP SE je sa svojih 100 hiljada zaposlenih napravio zaradu od 27 milijardi evra. Twitter je sa svojih 4600 zaposlenih zaradio 3.46 milijardi. [Facebook](https://en.wikipedia.org/wiki/Facebook,_Inc.) je sa nešto manje od 45 hiljada zaposlenih ostvario zaradu od neverovatnih 70.6 milijardi dolara što znači da je svaki zaposleni ostvario dobit od preko 1.5 miliona dolara. <sup>[[*]](https://www.visualcapitalist.com/top-20-tech-companies-revenue-per-employee/)</sup>
+
+
+| Pozicija | Kompanija            |  Zemlja   | Profit po zaposlenom |
+|---------|----------------------|:---------:|--------------------:|
+| 1       | Fannie Mae           |     US    |          $1,759,000 |
+| 2       | Gilead Sciences      |     US    |          $1,500,111 |
+| 3       | Freddie Mac          |     US    |          $1,306,419 |
+| 4       | **Facebook**             |     US    |            $599,307 |
+| 5       | National Grid        |     UK    |            $458,639 |
+| 6       | Amgen                |     US    |            $402,187 |
+| 7       | **Apple**                |     US    |            $393,853 |
+| 8       | **Alphabet**             |     US    |            $270,329 |
+| 9       | Taiwan Semiconductor |   Taiwan  |            $218,951 |
+| 10      | *Goldman Sachs*       |     US    |            $215,058 |
+| 11      | AbbVie               |     US    |            $198,433 |
+| 12      | *SoftBank Group*       |   Japan   |            $192,442 |
+| 13      | Qualcomm             |     US    |            $187,049 |
+| 14      | Tencent Holdings     |   China   |            $159,533 |
+| 15      | *Westpac Banking*      | Australia |            $155,244 |
+| 16      | *SPD Bank*           |   China   |            $151,287 |
+| 17      | *Commonwealth Bank*  | Australia |            $148,749 |
+| 18      | **Microsoft**            |     US    |            $147,351 |
+| 19      | **Cisco Systems**        |     US    |            $145,712 |
+| 20      | *Industrial Bank*     |   China   |            $144,141 |
+
+U tabeli možete videti neke od [vodećih svetskih kompanija po profitu po zaposlenom](https://www.visualcapitalist.com/20-companies-profit-per-employee/). Mada sve ne pripadaju informatičkom sektoru može se videti koje grane privrede su najprofitabilnije i takođe može biti referenca da se istražuje šta je te kompanije dovelo do tolikog uspeha. Primtetite za kasnije da su pored IT banke veoma česte na ovoj listi. 
 
 Da bi Srbija stala na noge i mogla da se takmiči na slobodnom tržištu, mora kreirati prvo svoje domaće servise koji će štiti naše tržište, moramo imati svoj mali Amazon, Alibabu, Uber, WhatsUp, Deliveroo... moramo imati sopstvene servise koje će podržavati knjigovodstvo, računovodstvo, medije, marketing. Paralelno gradeći proizvode koje bi potencijalno mogli prodati u inostranstvu. Primer može biti firma [Nordeus](https://en.wikipedia.org/wiki/Nordeus) i video igrice Top Eleven Football Manager koja je osvojila svetski vrh svoje kategorije.
 
@@ -246,7 +272,7 @@ Informatika bukvalno može unaprediti svaku oblast poslovanja i ljudskog delovan
 
 Jasno je da outsourcing neće biti dovoljan da bi izbegli sudbinu u kojoj možemo postati robovi neke buduće mega korporacije koja će posedovati AI programere. Zato moramo krenuti da razmišljamo o svom interesu i kako stvoriti svoje proizvode. Jedino tako se može dosegnuti onih pomenutih 40 milijardi evra BDP-a od IT u Srbiji.
 
-💡 Za one koji su i dalje nezadovoljni, kivni ili zavidni što programeri primaju mnogo veće plate, ili imaju povlašteni tretman, umesto svih tih negativinih emocija neka ulože malo truda da nauče nešto novo pa se i sami mogu baviti sličnim poslom i imati iste uslove i platu! 
+💡 Za one koji su i dalje nezadovoljni, kivni ili zavidni što programeri primaju mnogo veće plate, ili imaju povlašteni tretman, umesto svih tih negativinih emocija neka ulože malo truda da nauče nešto novo pa se i sami mogu baviti sličnim poslom i imati iste uslove, platu i time zarađujući više učiniće uslugu i sebi i državi! 
 
 Kao što ste videli u Srbiji će u narednih 10 godina biti potreban veliki broj programera, pa ako želite da imate sličnu platu najbolje je da i vi postanete jedan od njih.
 
