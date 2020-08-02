@@ -16,7 +16,3 @@ hexo.extend.generator.register('home', function(locals){
     layout: ['index']
   }
 });
-
-// hexo.extend.helper.register('test_test', function(abc){
-//   return window.location.hostname;
-// });
