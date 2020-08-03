@@ -1,7 +1,7 @@
 ---
 title: 100% energije iz obnovljivih izvora za 10 godina
 date: 2020-08-02 12:00:00
-tags: [energija, ]
+tags: [energija, obnovljivi izvori, vetrenjače, hidroelektrane, solarni paneli, ekonomija, fosilna goriva, ugalj]
 categories:
 - Energija 
 description: Da li Srbija može preći na 100% obnovljivih izvora i za koliko vremena? Ovaj članak daje odgovor na to pitanje...
@@ -751,8 +751,8 @@ Srbija je mala zemlja, i mada je naš doprinost od [0.17%](https://en.wikipedia.
 
 Najlakši stvar bi bila okrenuti glavu na drugu stranu i reći da smo u tom smislu beznačajni i da sve to nije naša briga, dok je u stvari svaki doprinos emisiji značajan. Kao što se ne može reći koja je tačno slamka slomila kamilja leđa, tako je i po pitanju globalnog zagrevanja, nije u pitanju jedan zagađivač koji se nalazi na prvom mestu nego je u pitanju kumulativni efekat svih zemlje zajedno tokom više od 150 godina od početka industrijske revolucije.
 
-⚠️ Što se ljudske civilizacije kolektivno nam je ostalo nam je manje od 10 godina da nešto uradimo, nakon toga pozitivna povratna sprega priorde nezaustavljivo će podizati temperaturu i nećemo moći uraditi ništa da se taj proces zaustavi. "Globalno zagrevanje" poput pandemije, ne razmišlja, i nije ga briga o našim političkim, verskim, rasnim ili ekonomskim mišljenjima. Slično poput vatre koja se ostavi bez nadzora, klimatske promene se u potpunosti mogu oteti kontroli. Ako se to desi ne bi imali mnogo opcija na raspolaganju.
+⚠️ Što se ljudske civilizacije tiče kolektivno nam je ostalo manje od 10 godina da nešto uradimo, nakon toga pozitivna povratna sprega prirode nezaustavljivo će podizati temperaturu i nećemo moći uraditi ništa da se taj proces zaustavi. "Globalno zagrevanje" slično pandemiji ili bilo kojoj drugoj prirodnoj sili, ne razmišlja niti saoseća, i nije ga briga o našim političkim, verskim, rasnim ili ekonomskim stavovima. Slično poput vatre koja se ostavi bez nadzora, klimatske promene se u potpunosti mogu oteti kontroli. Ako se to desi ne bi imali mnogo opcija na raspolaganju.
 
-Da se to ne bi desilo, možda slično Kostariki možemo preći na 100% obnovljivih izvora. Kada se nakon 2 do 3 godine ostvari planirani napredak, možda potaknuti našim primerom, jedne male i siromašne zemlje, ostale zemlje bi možda mogli uraditi isto - grabeći mnogo krupnijim koracima srazmerno njihovim ekonomijama.
+Da se to ne bi desilo, možda slično Kostariki možemo preći na 100% obnovljivih izvora. Kada se nakon 2 do 3 godine ostvari planirani napredak, možda potaknuti našim primerom, jedne male i siromašne zemlje, ostale zemlje bi možda mogli uraditi isto - grabeći mnogo krupnijim koracima srazmerno veličini njihovih ekonomija.
 
-Naša zemlja je u svetskim ratovima imala ključnu ulogu, možda bi ovaj put mogli da uradimo isto ali u mirnodopskim uslovimo kroz rad, zajedništvo i lični primer. 
+Naša zemlja je u svetskim ratovima imala ključnu ulogu, možda bi ovaj put mogli imati sličnu ulogu ali u mirnodopskom smislu - kroz rad, zajedništvo i lični primer. 
