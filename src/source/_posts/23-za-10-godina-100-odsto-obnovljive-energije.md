@@ -25,8 +25,7 @@ Energija je najvažniji resurs za ekonomsko i tehnološko napredovanje bilo koje
 
 Postavlja se pitanje da li Srbija može preći na 100% obnovljivih izvora i za koliko vremena? Ovaj tekst ima za cilj da pokaže kako se to može postići u roku od 10 godina, takođe dajući obrazloženje zašto bi to trebali da uradimo što pre, i šta time dobijamo.
 
-Iz [energetskog bilansa Republike Srbije za 2020. godinu](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) možemo videti kolika je planirana potrošnja u Mten (Mtoe - milion ten).
-Mera **1 ten** je tona ekvivalentne nafte ([ton of oil equivalent](https://en.wikipedia.org/wiki/Tonne_of_oil_equivalent) (TOE)) je mera energije koja se oslobađa sagorevanjem jedne tone nafte što je jednako 41.868 GJ, 11.63 MWh (11630kWh), 1.28 TCE, 39.68 million BTU (British thermal unit), ili 6.6 - 8.0 barela nafte.
+Iz [energetskog bilansa Republike Srbije za 2020. godinu](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) možemo videti kolika je planirana potrošnja u Mten (Mten - milion ten). Mera **1 ten** je tona ekvivalentne nafte ([ton of oil equivalent](https://en.wikipedia.org/wiki/Tonne_of_oil_equivalent) (TOE)) je mera energije koja se oslobađa sagorevanjem jedne tone nafte što je jednako 41.868 GJ, 11.63 MWh (11630kWh), 1.28 TCE, 39.68 million BTU (British thermal unit), ili 6.6 - 8.0 barela nafte.
 
 <img src="/articles/23-za-10-godina-100-odsto-obnovljive-energije/energija-bilans.jpg" height="220" title="Energetskog bilansa Republike Srbije za 2018, 2019 i 2020 godinu" alt="" class="img-mb-14">
 
