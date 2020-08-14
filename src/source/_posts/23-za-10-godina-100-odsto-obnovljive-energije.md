@@ -21,15 +21,15 @@ comments: true
 
 # 100% energije iz obnovljivih izvora za 10 godina
 
-Energija je najvažniji resurs za ekonomsko i tehnološko napredovanje bilo koje zemlje. Trenutno 87% energetskih potreba Srbija dobija iz fosilnih izvora koji nisu obnovljivi. Energetska uvozna zavisnost Srbije iznosi oko 35%, dok je zavisnost od naftnih derivata skoro potpuna, što Srbiju uz neprestano odlivanje novca čini ranjivom i na fluktuacije cena naftnih derivata na svetskom tržištu. 
+Energija je najvažniji resurs za ekonomsko i tehnološko napredovanje bilo koje zemlje. Srbija trenutno 87% energetskih potreba dobija iz fosilnih izvora koji nisu obnovljivi. Energetska uvozna zavisnost Srbije iznosi oko 35%, dok je zavisnost od naftnih derivata skoro potpuna, što Srbiju, uz neprestano odlivanje novca, čini ranjivom i na fluktuacije cena naftnih derivata na svetskom tržištu. 
 
 Postavlja se pitanje da li Srbija može preći na 100% obnovljivih izvora i za koliko vremena? Ovaj tekst ima za cilj da pokaže kako se to može postići u roku od 10 godina, takođe dajući obrazloženje zašto bi to trebali da uradimo što pre, i šta time dobijamo.
 
-Iz [energetskog bilansa Republike Srbije za 2020. godinu](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) možemo videti kolika je planirana potrošnja u Mten (Mten - milion ten). Mera **1 ten** je tona ekvivalentne nafte ([ton of oil equivalent](https://en.wikipedia.org/wiki/Tonne_of_oil_equivalent) (TOE)) je mera energije koja se oslobađa sagorevanjem jedne tone nafte što je jednako 41.868 GJ, 11.63 MWh (11630kWh), 1.28 TCE, 39.68 million BTU (British thermal unit), ili 6.6 - 8.0 barela nafte.
+Iz [energetskog bilansa Republike Srbije za 2020. godinu](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) možemo videti kolika je planirana potrošnja u Mten (Mten - milion ten). Mera **1 ten** predstavlja tonu ekvivalentne nafte ([ton of oil equivalent](https://en.wikipedia.org/wiki/Tonne_of_oil_equivalent) (TOE)) a to je mera energije koja se oslobađa sagorevanjem jedne tone nafte, što je jednako 41.868 GJ, 11.63 MWh (11630kWh), 1.28 TCE, 39.68 million BTU (British thermal unit), ili 6.6 - 8.0 barela nafte.
 
 <img src="/articles/23-za-10-godina-100-odsto-obnovljive-energije/energija-bilans.jpg" height="220" title="Energetskog bilansa Republike Srbije za 2018, 2019 i 2020 godinu" alt="" class="img-mb-14">
 
-Iz tabele u dokumentu možemo videti da je za 2019. godinu ukupna potrošnja bila 15.590 Mtena. Obzirom da nam je ideja stopostotna elektrifikacija - svi tipovi energije treba izraziti u ekvivalentnoj meri što za snagu električne energije tj. kilovat-časovima.
+Iz tabele u dokumentu možemo videti da je za 2019. godinu ukupna potrošnja bila 15.590 Mtena. Obzirom da nam je ideja stopostotna elektrifikacija sve tipove energije treba izraziti u ekvivalentnoj meri za snagu električne energije tj. kilovat-časovima.
 
 |                                | 1Mten      |     % |                               11630 kWh |
 |--------------------------------|-----------:|------:|----------------------------------------:|
@@ -46,7 +46,7 @@ Iz tabele u dokumentu možemo videti da je za 2019. godinu ukupna potrošnja bil
 |                                | 15.592     |       |                        181,334,960,000  |
 |            Plan za 2030 godinu | 16.000     |       |                        186,080,000,000  |
 
-Takođe moramo planirati da će se vremenom količina potrošene energije uvećavati. Mada je to uvećanje diskutabilno uzimajući u obzir opšti trend smanjenja populacije. Stoga, uzećemo da će ukupna energija koja će biti potrebna 2030. godine biti jednaka 16,000,000 ten ili **186,080,000,000 kWh** (186,080 GWh) ekvivalentne snage električne energije.
+Takođe moramo planirati da će se vremenom količina potrošene energije uvećavati, mada je to uvećanje diskutabilno uzimajući u obzir opšti trend smanjenja populacije. Stoga, uzećemo da će ukupna energija koja će biti potrebna 2030. godine biti jednaka 16,000,000 ten ili **186,080,000,000 kWh** (186,080 GWh) ekvivalentne snage električne energije.
 
 |                                | Tip        |  %    |                                     kWh |
 |--------------------------------|------------|-------|----------------------------------------: |
@@ -54,25 +54,21 @@ Takođe moramo planirati da će se vremenom količina potrošene energije uveća
 |Hidro+Geo+Bio (gas, dizel, drvo, slama... )+Solar+Vetar       | Svi obnovljivi | 12.94 |                                         |
 |Hidro+Geo+Solar+Vetar           | Obnovljivi bez CO2    | 5.66  |                         10,269,290,000  |
 
-Srbija dobija **87.06% energije iz fosilnih goriva** pri čemu se skoro **49% sveukupne energije dobija iz uglja**. O ovome naročito treba razmišljati kada se priča o zagađenju vazduha. Procenat učešća solarne, geotermalne i energije vertra u ukupnoj proizvodnji jasno govori da su sve priče političara o obnovljivim izvorima samo reklamnog i samo-promocionog tipa kako bi se skupljali politički poeni, dok je stvarni napredak po tom pitanju veoma mali. 
+Srbija dobija **87.06% energije iz fosilnih goriva** pri čemu se skoro **49% sveukupne energije dobija iz uglja**. O ovome naročito treba razmišljati kada se priča o zagađenju vazduha. Procenat učešća solarne, geotermalne i energije vetra u ukupnoj proizvodnji jasno govori da su sve priče političara o obnovljivim izvorima isključivo reklamnog i samo-promocionog tipa kako bi se skupljali politički poeni, dok je stvarni napredak po tom pitanju veoma mali. 
 
-Samo [EPS](https://en.wikipedia.org/wiki/Elektroprivreda_Srbije) ima 7129.3 MW instalisane snage od čega su: termoelektrane (TE) 3907 MW, termoelektrane – toplane (TE-TO) 336 MW, hidroelektrane (HE) 2883 MW, elektrane na vetar 0.5 MW, solarne elektrane 0.1 MW i elektrane na biogas 2.7 MW. <sup>[[*]](http://www.see-institute.org/srpski/energetski-profil-rs)</sup> Na ovo treba dodati 1582.5 MW instalisane snage iz raznih izvora obnovljive energije [povlašćenih proizvođača](https://www.mre.gov.rs/doc/registar-211019.html).
+Samo [EPS](https://en.wikipedia.org/wiki/Elektroprivreda_Srbije) ima 7129.3 MW instalisane snage od čega su: termoelektrane (TE) 3907 MW, termoelektrane–toplane (TE-TO) 336 MW, hidroelektrane (HE) 2883 MW, elektrane na vetar 0.5 MW, solarne elektrane 0.1 MW i elektrane na biogas 2.7 MW. <sup>[[*]](http://www.see-institute.org/srpski/energetski-profil-rs)</sup> Na ovo treba dodati 1582.5 MW instalisane snage iz raznih izvora obnovljive energije [povlašćenih proizvođača](https://www.mre.gov.rs/doc/registar-211019.html).
 
-Važno je napomenuti da nisu svi MW instalisane snage isti i da proizvedena količina zavisi od tipa energije ali i od meteoroliških i drugih uslova. 
-Pa tako da bi se podmirile sve potrebe za energijom bilo bi potrebno **39.5 hidorelektrana "Đerdap 1"** (1080 MW instalisane snage sa godišnjom proizvodnjom od 4,710,000,000 kWh) ukupne snage **42660 MW**. 
-Međutim da bi se podmirile sve energetske potrebe Srbije samo iz sunčevih **fotonaponskih panela bilo bi potrebno 150920 MW instalisane snage**.<sup>[[*]](https://www.mre.gov.rs/doc/informator/Informator_o_radu_MRE_OKTOBAR_2019_latinica.pdf)</sup>
+Važno je napomenuti da nisu svi MW instalisane snage isti i da proizvedena količina zavisi od tipa energije ali i od meteoroliških i drugih uslova, te da bi se podmirile sve potrebe za energijom bilo bi potrebno **39.5 hidorelektrana "Đerdap 1"** (1080 MW instalisane snage sa godišnjom proizvodnjom od 4,710,000,000 kWh) ukupne snage **42660 MW**. Međutim, da bi se podmirile sve energetske potrebe Srbije samo iz sunčevih **fotonaponskih panela bilo bi potrebno 150920 MW instalisane snage**.<sup>[[*]](https://www.mre.gov.rs/doc/informator/Informator_o_radu_MRE_OKTOBAR_2019_latinica.pdf)</sup>
 
-Kada su u pitanju obnovljivi izvori energije, treba razdvojiti one koji generišu i ne generišu ugljen dioksid. Pa tako u Srbiji sagorevanje bio mase ima veći udeo od hidropotencijala ali ta vrsta nije ugljenično neutralna jer se često sagoreva drvo koje se dobija sečenjem šuma. Da bi se takva posečena šuma obnovila potrebno je mnogo više od 10 godina, što je iz ugla rešavanja gorućeg pitanja globalnog zagrevanja i smanjivanja moći prirode da absorbuje ugljen dioksid nedopustivo.
+Kada su u pitanju obnovljivi izvori energije, treba razdvojiti one koji generišu i ne generišu ugljen dioksid. U Srbiji sagorevanje bio mase ima veći udeo od hidropotencijala ali ta vrsta nije ugljenično neutralna jer se često sagoreva drvo koje se dobija sečenjem šuma. Da bi se takva posečena šuma obnovila potrebno je mnogo više od 10 godina, što je iz ugla rešavanja gorućeg pitanja globalnog zagrevanja i smanjivanja moći prirode da absorbuje ugljen dioksid nedopustivo.
 
-Trenutno Srbija generiše [39,405,000,000 kWh](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) električne energije godišnje ali se samo 10,269,290,000 kWh dobija iz pravih obvnovljivih izvora. To znači da bi dostigli energetsku nezavisnost i imali 100% energije generisane iz potpuno obnovljivih ili ugljeničnno neutralnih izvora, biće potrebno da se proizvodi **175,810,710,000 kWh godišnje** iz vode, vetra, sunca kao i geotermalnih izvora energije. Ovo ujedno znači i da **[distributivna mreža](/articles/14-energetska-mreza/) mora da se prilagodi kako bi izdržala 5 puta veće opterećenje**. Jedan od načina kako kao bi ovaj problem mogao da se ublaži je kroz decentralizaciju, to jest proizvodnjom energije tamo gde se ona konzumira bi u mnogome resteretilo distributivnu mrežu. 
+Srbija trenutno generiše [39,405,000,000 kWh](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) električne energije godišnje, ali se samo 10,269,290,000 kWh dobija iz pravih obvnovljivih izvora. Da bi dostigli energetsku nezavisnost i imali 100% energije generisane iz potpuno obnovljivih ili ugljeničnno neutralnih izvora, biće potrebno da se proizvodi **175,810,710,000 kWh godišnje** iz vode, vetra, sunca kao i geotermalnih izvora energije. Ovo ujedno znači i da **[distributivna mreža](/articles/14-energetska-mreza/) mora da se prilagodi kako bi izdržala 5 puta veće opterećenje**. Jedan od načina kako bi ovaj problem mogao da se ublaži je kroz decentralizaciju, to jest proizvodnja energije tamo gde se ona konzumira bi u mnogome resteretila distributivnu mrežu. 
  
 Koliko je zaista 175,810 GWh energije i da li Srbija ima toliki prirodni potencijal?
 
-Kao deo studije "[Putokaz za 139 zemlja kako do 100% energije iz obnovljivih izvora](https://www.sciencedirect.com/science/article/pii/S2542435117300120)" <sup>[[*]](https://web.stanford.edu/group/efmh/jacobson/Articles/I/CountryGraphs/139-CountryInfographic.pdf) [[**]](https://www.pwc.co.uk/assets/pdf/100-percent-renewable-electricity.pdf
-)</sup> Univerziteta na Stanfordu kao i projekta "[The Solutions Project](https://thesolutionsproject.org/why-clean-energy/#/map/countries/location/SRB)" <sup>[[*]](https://thesolutionsproject.org/wp-content/uploads/wce/country_Serbia.pdf) [[**]](http://web.stanford.edu/group/efmh/jacobson/Articles/I/WWS-50-USState-plans.html)</sup> utvrđeno je da bi Srbija došla do 100% obnovljivih izvora preporuka je da najmanje **75.3% energije treba dobijati pretvaranje Sunčeve energije u druge oblike**. 
+Kao deo studije "[Putokaz za 139 zemlja kako do 100% energije iz obnovljivih izvora](https://www.sciencedirect.com/science/article/pii/S2542435117300120)" <sup>[[*]](https://web.stanford.edu/group/efmh/jacobson/Articles/I/CountryGraphs/139-CountryInfographic.pdf) [[**]](https://www.pwc.co.uk/assets/pdf/100-percent-renewable-electricity.pdf)</sup> Univerziteta na Stanfordu kao i projekta "[The Solutions Project](https://thesolutionsproject.org/why-clean-energy/#/map/countries/location/SRB)" <sup>[[*]](https://thesolutionsproject.org/wp-content/uploads/wce/country_Serbia.pdf) [[**]](http://web.stanford.edu/group/efmh/jacobson/Articles/I/WWS-50-USState-plans.html)</sup> utvrđeno je da bi Srbija došla do 100% obnovljivih izvora preporuka je da najmanje **75.3% energije treba dobijati pretvaranje Sunčeve energije u druge oblike**. 
 
-Zbog lakše računice uzećemo u obzir da ćemo svih 176 TWh potrebne energije, dobijati iz fotonaponskih solarnih panele. 
-Trenutna **cena 1kW** instalisane snage fotonaponskog sistema na malo je **1000 evra**, pri čemu treba imati u vidu da kada se rade veći projekti ta cena može ići na niže. Ova cena podrazumeva cenu panela, invertora, kablova, instalacije i svega ostalog neophodnog da bi se paneli postavili, sve osim eventualnog skladišta energije koje ćemo razmotriti kasnije.
+Zbog lakše računice uzećemo u obzir da ćemo svih 176 TWh potrebne energije, dobijati iz fotonaponskih solarnih panele. Trenutna **cena 1kW** instalisane snage fotonaponskog sistema na malo je **1000 evra**, pri čemu treba imati u vidu da kada se rade veći projekti ta cena može ići na niže. Ova cena podrazumeva cenu panela, invertora, kablova, instalacije i svega ostalog neophodnog da bi se paneli postavili, sve osim eventualnog skladišta energije koje ćemo razmotriti kasnije.
 
 Uzećemo da jedan panel ima snagu od [325W i dimenzije 1956 x 992 x 40mm](http://www.parenasunce.com/upload/pdf/AB-72P-325-340W-Polycrystalline-PV-modules.pdf) što je približno 2m2. Takođe uzećemo da ovakvi paneli imaju 10 godina proizvodne garancije, 12 godina garancije da će izlazna snaga biti 90% i 20 godina garancije da izlazna snaga neće pasti ispod 80%. 
 
@@ -82,30 +78,29 @@ Za vreme letnjih meseci srednji intenzitet sunčevog zračenja iznosi 5.9 kWh/m2
 
 U skladu sa geografskom pozicijom naše zemlje, predviđenim gubicima i količinom sunčanih dana godišnje, sistem sa instalisanom snagom od **29.9kW**, na referentnoj lokaciji Beograda, bi godišnje mogao proizvesti [**36990 kWh**](https://re.jrc.ec.europa.eu/pvg_tools/en/tools.html#PVP) električne energije.
 
-To znači da bi Srbiji za 100% proizvodnje iz izvora sunčeve energije bilo potrebno <abbr title="175,810,710,000 kWh / 36990 kWh">**4,752,925**</abbr> takvih sistema.
-Ovo bi pokrilo sve moguće potrebe i osvetljenja, grejanja, transporta, zahteva industrijske struje i sve ostale vidove potrošnje.
+To znači da bi Srbiji za 100% proizvodnje iz izvora sunčeve energije bilo potrebno <abbr title="175,810,710,000 kWh / 36990 kWh">**4,752,925**</abbr> takvih sistema. Ovo bi pokrilo sve moguće potrebe osvetljenja, grejanja, transporta, zahteva industrijske struje i sve ostale vidove potrošnje.
 
-Što se površine tiče ako bi bi paneli takvih mini elektrana zazimali površinu od 200m2 ukupna potrebna površina koju bi zauzeli svih **437,269,100 panela** bi bila 950,585,000 m2 ili **951 km2**. Što bi činilo **kvadrat sa stranicama od 31 km**. Ako uzmemo da je površina Srbije 88,361 km2, to znači da bi nam trebalo **1.07% ukupne teritorije** da ne budemo više energetski zavisni. Treba imati u vidu da se zavisnost može nastaviti i sa obnovljivim izvorima ako se pogrešno izvede implementacija čitavog poduhvata u kojem ćemo se mahom oslanjati na tuđu tehnologiju. 
+Što se površine tiče ako bi bi paneli takvih mini elektrana zauzimali površinu od 200m2 ukupna potrebna površina koju bi zauzelo svih **437,269,100 panela** bi bila 950,585,000 m2 ili **951 km2**. Što bi činilo **kvadrat sa stranicama od 31 km**. Ako uzmemo da je površina Srbije 88,361 km2, to znači da bi nam trebalo **1.07% ukupne teritorije** da ne budemo više energetski zavisni. Treba imati u vidu da se zavisnost može nastaviti i sa obnovljivim izvorima ako se pogrešno izvede implementacija čitavog poduhvata u kojem ćemo se mahom oslanjati na tuđu tehnologiju. 
 
 <img src="/articles/23-za-10-godina-100-odsto-obnovljive-energije/solarni-prostor.jpg" height="220" title="Površina potrebna za 100% solarne energije" alt="" class="img-mb-14">
 
 Ovde treba primetiti da iako 1% teritorije nije mnogo, nema potrebe da se koristi prostor koji bi inače imao neku drugu korisniju namenu. 
 
-Primera radi samo kroz Vojvodinu se proteže [mreža kanala Dunav-Tisа-Dunav dužine 929 km](https://sh.wikipedia.org/wiki/Kanal_Dunav_%E2%80%93_Tisa_%E2%80%93_Dunav) i više od 300 km2 jezera kako prirodnih tako i veštačkih stvoreni kao nephodna akumulacija za potrebe hidrocentrala. Na površini sporih reka, kanala, ribnjaka i jezera, kao i na njihovim nasipima - može se postaviti značajan broj solarnih elektrana. 
+Primera radi samo kroz Vojvodinu se proteže [mreža kanala Dunav-Tisа-Dunav dužine 929 km](https://sh.wikipedia.org/wiki/Kanal_Dunav_%E2%80%93_Tisa_%E2%80%93_Dunav) i više od 300 km2 jezera kako prirodnih tako i veštački stvorenih kao nephodna akumulacija za potrebe hidrocentrala. Na površini sporih reka, kanala, ribnjaka i jezera, kao i na njihovim nasipima - može se postaviti značajan broj solarnih elektrana. 
 
-Instaliranjem solarnih elektrana na vodi smanjuje se eventualno korištenje prostora koji bi se mogao koristiti za poljuprivredu ili gradnju, međutim osim toga solarni paneli postavljeni iznad vode imaju veću efikasnost i proizvode više energije zbog efekta hlađenja. Obzirom da su sve vode u Srbiji slatkovodne ne bi bilo problema sa korodiranjem. Dovoljnim distanciranjem od obala, objekti i rastinje ne bi bacali senku omogučavajući maksimalno iskorištenje, takođe održavanje bi bilo olakšano jer [ne bi bilo prašine](https://www.youtube.com/watch?v=qisCyvAsRoI) a kiše bi bile dovoljne da očiste panele. Ipak ovakav način instalacije bi bio inicijalno skuplji jer bi zahtevao plovne objekte i strukture koji bi držali panele na vodi. Akumulaciona jezera su dodatno idealana jer je energetska infrastruktura već izgrađena za potrebe obližnjih hidroelektrana.
+Instaliranjem solarnih elektrana na vodi smanjuje se eventualno korištenje prostora koji bi se mogao koristiti za poljoprivredu ili gradnju, međutim osim toga solarni paneli postavljeni iznad vode imaju veću efikasnost i proizvode više energije zbog efekta hlađenja. Obzirom da su sve vode u Srbiji slatkovodne ne bi bilo problema sa korodiranjem. Dovoljnim distanciranjem od obala, objekti i rastinje ne bi bacali senku omogučavajući maksimalno iskorištenje, takođe održavanje bi bilo olakšano jer [ne bi bilo prašine](https://www.youtube.com/watch?v=qisCyvAsRoI) a kiše bi bile dovoljne da očiste panele. Ipak ovakav način instalacije bi bio inicijalno skuplji jer bi zahtevao plovne objekte i strukture koji bi držali panele na vodi. Akumulaciona jezera su dodatno idealana jer je energetska infrastruktura već izgrađena za potrebe obližnjih hidroelektrana.
 
-Sa druge strane, instalacijom na vodi senkom koju prave paneli smanjilo bi se isparavanje vode, što je naročito važno za aukumlaciona jezera koja na taj način gube "energiju" ali i za prirodna jezera i ribnjake žbog živi svet u njima (naravno treba imati meru kako se ne bi postigao kontra efekat - živi svet mora imati dovljno kiseonika i svetlosti za život).
+Sa druge strane, instalacijom na vodi senkom koju prave paneli smanjilo bi se isparavanje vode, što je naročito važno za aukumlaciona jezera koja na taj način gube "energiju" ali i za prirodna jezera i ribnjake žbog živog sveta u njima (naravno treba imati meru kako se ne bi postigao kontra efekat - živi svet mora imati dovljno kiseonika i svetlosti za život).
 
-Domaći primer može biti jezero [Belo Blato](https://sr.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE_%D1%98%D0%B5%D0%B7%D0%B5%D1%80%D0%BE_(%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0)) površine 5.4 km2 čije isparenje i temperatura bi se mogli stabilizovati izgradnjom plutajućih solarnih elektrana, čime bi se stvarila povoljnija klimu za živi svet u jezeru. 
+Domaći primer može biti jezero [Belo Blato](https://sr.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE_%D1%98%D0%B5%D0%B7%D0%B5%D1%80%D0%BE_(%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B0)) površine 5.4 km2 čije bi se isparenje i temperatura mogli stabilizovati izgradnjom plutajućih solarnih elektrana, čime bi se stvorila povoljnija klimu za živi svet u jezeru. 
 
-Mrežu puteva koja se prostire na dužini od [45220 km](https://sr.wikipedia.org/sr-el/%D0%9F%D1%83%D1%82%D0%BD%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8), parking mesta i stanice za punjenje (benzinske pump/elektro punjače) bi takođe mogli biti idealni kandidati za postavljanje solarnih elektrana jer bi se energija proizvodila na istom mestu gde se i koristi. Ako uzmemo u obzir samo autoputeve A1 do A5, koji se proteže na [1155 km](https://bs.wikipedia.org/wiki/Autoputevi_u_Srbiji) sa standardnom širinom od [27,5 metara](https://sr.wikipedia.org/sr-el/%D0%90%D1%83%D1%82%D0%BE-%D0%BF%D1%83%D1%82) to znači da bi uz pametnu konstrukciju imali bi na raspolaganju 32 km2 prostora duž kog bi mogli kombinovati proizvodnju, osvetljenje autoputa i punjenje električnih automobila.
+Mrežu puteva koja se prostire na dužini od [45220 km](https://sr.wikipedia.org/sr-el/%D0%9F%D1%83%D1%82%D0%BD%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%B0_%D1%83_%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8), parking mesta i stanice za punjenje (benzinske pumpe / elektro punjači) bi takođe mogli biti idealni kandidati za postavljanje solarnih elektrana jer bi se energija proizvodila na istom mestu gde se i koristi. Ako uzmemo u obzir samo autoputeve A1 do A5, koji se protežu na [1155 km](https://bs.wikipedia.org/wiki/Autoputevi_u_Srbiji) sa standardnom širinom od [27,5 metara](https://sr.wikipedia.org/sr-el/%D0%90%D1%83%D1%82%D0%BE-%D0%BF%D1%83%D1%82) to znači da bi uz pametnu konstrukciju imali na raspolaganju 32 km2 prostora duž kojeg bi mogli kombinovati proizvodnju, osvetljenje autoputa i punjenje električnih automobila.
 
-Nakon toga, mogu se iskoristiti krovovi zgrada, kuća, pomoćnih objekata i industrijskih pogona i tek na kraju treba uzeti u obzir prvo nepristupačne kamenjare na kojima ne uspeva rastinje i tek na kraju ostale površine kao što su livade ili njive.
+Nakon toga, mogu se iskoristiti krovovi zgrada, kuća, pomoćnih objekata i industrijskih pogona i tek na kraju treba uzeti u obzir prvo nepristupačne kamenjare na kojima ne uspeva rastinje i ostale površine kao što su livade ili njive.
 
 Ovakav projekt koštao bi <abbr title="4,752,925 * 30,000 eur">**142.6 milijardi evra**</abbr> ne uključujući skladišta energije.
 
-Da bi uspeli da ovo uradimo u roku od 10 godina bilo bi potrebno **14.26 milijardi evra godišnje**. Mada ovo izgleda kao previše velika suma za Srbiju čiji ukupni BDP iznosi [46 milijardi evra](https://www.focus-economics.com/country-indicator/serbia/gdp-eur-bn) godišnje, i mada ukupna neto plate svih [2.9 miliona zaposlenih](/articles/01-stanje/#Zaposleni-Penzioneri-Nezaposleni) ne prelaze 1.45 milijardi evra ([neto plata ~500 eura](https://www.stat.gov.rs/sr-Latn/oblasti/trziste-rada/zarade)) ovo je ipak moguće izvesti. 
+Da bi uspeli da ovo uradimo u roku od 10 godina bilo bi potrebno **14.26 milijardi evra godišnje**. Mada ovo izgleda kao previše velika suma za Srbiju čiji ukupni BDP iznosi [46 milijardi evra](https://www.focus-economics.com/country-indicator/serbia/gdp-eur-bn) godišnje, i mada ukupne neto plate svih [2.9 miliona zaposlenih](/articles/01-stanje/#Zaposleni-Penzioneri-Nezaposleni) ne prelaze 1.45 milijardi evra ([neto plata ~500 eura](https://www.stat.gov.rs/sr-Latn/oblasti/trziste-rada/zarade)) ovo je ipak moguće izvesti. 
 
 Kako?
 
@@ -113,32 +108,32 @@ Da bi se postigao željeni efekt sve što ću navesti mora biti sinhronizovano.
 
 Počelo bi se sa manjim investicijama koje bi bile približno dva puta više nego čuvenih 100 evra koje su raspodeljene svakom građaninu tokom pandemije. Svake godine investicije bi rasle do osme godine u kojoj bi dostigle vrhunac. Nakon toga broj instalacija bi se smanjio toliko da zameni gubitke, kvarove kao i da zadovolji planirani godišnji rast potrošnje.
 
-Zbog **degradacije panela i invertora** treba uračunati da će tokom 10 godina sistem izgubiti 10% energetskog potencijala proizvodnje. To znači da se tokom vremena na ukupnoj investiciju gubi oko 14 milijardi vrednosti koja mora biti nadohnađena zamenom. Na ovo se takođe moraju dodati gubici uzrokovani elementarnim nepogodama, vandalizmom i krađom, pa se nakon 10 godine proizvodnja nastavlja ali po umanjenoj stopi dok ne dostigne tačka stabilne prizvodnje sa blagim porastom. 
+Zbog **degradacije panela i invertora** treba uračunati da će tokom 10 godina sistem izgubiti 10% energetskog potencijala proizvodnje. To znači da se tokom vremena na ukupnoj investiciji gubi oko 14 milijardi vrednosti koja mora biti nadoknađena zamenom. Na ovo se takođe moraju dodati gubici uzrokovani elementarnim nepogodama, vandalizmom i krađom, pa se nakon 10 godine proizvodnja nastavlja, ali po umanjenoj stopi dok se ne dostigne tačka stabilne proizvodnje sa blagim porastom. 
 
 <span id="implementacija"></span>
 Način implementacije bi bio postepen kao što je to prikazano ovde:
 
-- 2021 -  1.0 milijarde EUR -   33333 sistema od 30kW 
+- 2021 -  1.0 milijarda EUR -   33333 sistema od 30kW 
 - 2022 -  2.5 milijarde EUR -   83333 sistema od 30kW 
 - 2023 -  4.5 milijarde EUR -  150000 sistema od 30kW 
 - 2024 -  7.5 milijarde EUR -  250000 sistema od 30kW 
-- 2025 - 12.0 milijarde EUR -  400000 sistema od 30kW 
-- 2026 - 18.0 milijarde EUR -  600000 sistema od 30kW 
-- 2027 - 25.0 milijarde EUR -  833333 sistema od 30kW 
-- 2028 - 30.0 milijarde EUR - 1000000 sistema od 30kW 
-- 2029 - 24.0 milijarde EUR -  800000 sistema od 30kW 
-- 2030 - 19.0 milijarde EUR -  633333 sistema od 30kW 
-- <span style="color: #aaa">2031 - 16.0 milijarde EUR - obnova zbog degradacije</span>  
-- <span style="color: #aaa">2032 - 14.0 milijarde EUR - obnova zbog degradacije</span>    
-- <span style="color: #aaa">2033 - 14.0 milijarde EUR - obnova zbog degradacije</span>    
+- 2025 - 12.0 milijardi EUR -  400000 sistema od 30kW 
+- 2026 - 18.0 milijardi EUR -  600000 sistema od 30kW 
+- 2027 - 25.0 milijardi EUR -  833333 sistema od 30kW 
+- 2028 - 30.0 milijardi EUR - 1000000 sistema od 30kW 
+- 2029 - 24.0 milijardi EUR -  800000 sistema od 30kW 
+- 2030 - 19.0 milijardi EUR -  633333 sistema od 30kW 
+- <span style="color: #aaa">2031 - 16.0 milijardi EUR - obnova zbog degradacije</span>  
+- <span style="color: #aaa">2032 - 14.0 milijardi EUR - obnova zbog degradacije</span>    
+- <span style="color: #aaa">2033 - 14.0 milijardi EUR - obnova zbog degradacije</span>    
 
 <img src="/articles/23-za-10-godina-100-odsto-obnovljive-energije/solarni-investicioni-plan.jpg" height="220" title="Solarni investicioni plan" alt="" class="img-mb-14">
 
-Problem ovakvog investiranja može biti da se u 20-toj godini mora zameniti mnogo veći broj panela, međutim pravilnim planiranje ovaj vrh se može izravnati, nakon čega broj instalacija može biti na konstantnom nivou sa malom porastom zbog eventualnih pvećanih potreba za energijom. Takođe moramo računati da će se tokom godina tehnologija menjati i da će verovatno trebati manje prostora da bi se dobila ista količina energije.
+Problem ovakvog investiranja može biti da se u 20-toj godini mora zameniti mnogo veći broj panela, međutim pravilnim planiranje ovaj vrh se može izravnati, nakon čega broj instalacija može biti na konstantnom nivou sa malom porastom zbog eventualnih povećanih potreba za energijom. Takođe, moramo računati da će se tokom godina tehnologija menjati i da će verovatno trebati manje prostora da bi se dobila ista količina energije.
 
 
 ## Preduslovi
-[💡] **Formiranje isplativije cena električne energije**
+[💡] **Formiranje isplativije cene električne energije**
 
 <img src="/articles/23-za-10-godina-100-odsto-obnovljive-energije/cena-elektricne-energije.jpg" height="220" title="Cena električne energije u zemljama Evrope" alt="" class="img-mb-14">
 
@@ -156,88 +151,90 @@ Sa porezom i pridruženim takasama koje bi išle državi i EPS-u povraćaj inves
 
 Sa cenama po kW električne energije znatno nižim od onih u Evropi, ovo bi bio previše dug period za isplativost ovakve vrste investicija.
 
-Primera radi cena osnovice električne energije u Nemačkoj je 14.73c dok nemci još dodatno plaćaju 16.15c na konto taksi i PDV-a što je sve ukupno 30.88 euro centi. Ista investicija 30kW-nog solarnog sistema u Nemačkoj bi se isplatila u roku od 3 do 6 godina. Ovde treba napomenuti da 30kW sistem košta nešto skuplje nego u Srbiji jer je u Nemačkoj cena rada tj. proizvodnje kao i instalacije panela skuplja. Treba uzeti u obzirom da je Nemačka severnije i da ima manji broj sunčanih sati godišnje što bi takođe uticalio na povraćaj investicija kroz prodaju energije.
+Primera radi, cena osnovice električne energije u Nemačkoj je 14.73c dok Nemci još dodatno plaćaju 16.15c na konto taksi i PDV-a što je ukupno 30.88 euro centi. Ista investicija 30kW-nog solarnog sistema u Nemačkoj bi se isplatila u roku od 3 do 6 godina. Ovde treba napomenuti da 30kW sistem košta nešto skuplje nego u Srbiji jer je u Nemačkoj cena rada tj. proizvodnje kao i instalacije panela skuplja. Treba uzeti u obzirom da je Nemačka severnije i da ima manji broj sunčanih sati godišnje što bi takođe uticalio na povraćaj investicija kroz prodaju energije.
 
-Takozvane Fid-In tarife u Srbiji su povoljnije, ali one postoje samo deklarativne na papiru, kao i većina "povoljnih" investicija u Srbiji koje su većinom raspodeljene ljudima bliskim vlasti. Pa tako mada je na zvaničnom sajatu ["Ministarstva Rudarstva i Energetike"](https://www.mre.gov.rs/latinica/faq-energetska-efikasnost-obnovljivi-izvori.php) objavljeni detalji i pravila ona su u praksi apsolutno je beskorisna, jer ako ste obični smrtnik ugovor sa EPS-om i državaom je u stvarnosti nemoguće dobiti.
+Takozvane Fid-In tarife u Srbiji su povoljnije, ali one postoje samo deklarativne na papiru, kao i većina "povoljnih" investicija u Srbiji koje su većinom raspodeljene ljudima bliskim vlasti. Mada su na zvaničnom sajatu ["Ministarstva Rudarstva i Energetike"](https://www.mre.gov.rs/latinica/faq-energetska-efikasnost-obnovljivi-izvori.php) objavljeni detalji i pravila, ona su u praksi apsolutno beskorisna, jer ako ste obični smrtnik ugovor sa EPS-om i državom je u stvarnosti nemoguće dobiti.
 
 Da je sve to tako, potvđuju i izveštaji agencije za evrointegracije <sup>[*](https://pasivnakuca.rs/index.php/pasivna-kuca/vesti/256-srbija-nije-ostvarila-napredak-u-primeni-okvira-za-obnovljive-izvore-energije)</sup> koje govore o nedovljnom napretku Srbije u pogledu proizvodnje energije iz obnovljivih izvora. 
 
 O sporom napretku svedoči i to što proizvdonja energije Sunca, vetra kao i geotermalnih izvora zajedno ne prelaze 1% učešća, pri čemu je najveći deo hidropotencijala izgrađen pre više od 50 godina. 
 
-Da bi za 10 godina uspeli da pređemo na 100% obnovljivih izvora energije, idealno bi bilo ako bi se kod nas cena formirala tako da neto dobit bude takva da se **investicija može vratiti za 5 do 7 godina**, što bi odgovaralo **dobiti od 11.6 do 16.3 euro centa po kilovatu**. Pri čemu bi se tokom sunčanih sati električna energija plaća proizvođačima 11.6 centi dok se tokom večernjih sati (periodima bez sunca) kilova čas plaćao 16.3 euro centi. 
+Da bi za 10 godina uspeli da pređemo na 100% obnovljivih izvora energije, idealno bi bilo ako bi se kod nas cena formirala tako da neto dobit bude takva da se **investicija može vratiti za 5 do 7 godina**, što bi odgovaralo **dobiti od 11.6 do 16.3 euro centa po kilovatu**. Pri čemu bi se tokom sunčanih sati električna energija plaćala proizvođačima 11.6 centi, dok bi se tokom večernjih sati (periodima bez sunca) kilovat čas plaćao 16.3 euro centi. 
 
 Na ovaj način bi se stimulisali investitori da kupuju skladišta energije i električne automobile koji bi im bukvalno zarađivali novac puneći se tokom jeftinih sati i prazneći se tokom skupih sati. Ovo bi zahtevalo da imamo pametnu elektro distributivnu i prodajnu mrežu o čemu sam već pisao u članku o [Energetskoj mreži](/articles/14-energetska-mreza/). 
 
-Zbog hitnosti problema globalnog zagrevanja, ranije vraćanje investicije može dati mogućnost da se dobijeni novac reinvestira u proširenje postojećih proizvodnih kapaciteta. Na taj način budući investitori bi na početku investirali nešto više novca u invertore veće snage, da bi onda vremenom dodavali solarne panele. Samim tim na 30 kW sistemu od 92 panela sa cenom 11.6c mogli bi mesečno povećavati broj panela za 2, što je povećanje od oko 25% na godišnjem nivou.
+Zbog hitnosti problema globalnog zagrevanja, ranije vraćanje investicije može dati mogućnost da se dobijeni novac reinvestira u proširenje postojećih proizvodnih kapaciteta. Na taj način bi budući investitori na početku investirali nešto više novca u invertore veće snage, da bi onda vremenom dodavali solarne panele. Samim tim na 30 kW sistemu od 92 panela sa cenom 11.6c mogli bi mesečno povećavati broj panela za 2, što je povećanje od oko 25% na godišnjem nivou.
 
-Trenutna cena od [1.3 do 16 euro centi](http://www.servisinfo.com/cena-struje) jednostavno nije ekonomski održiva, i mada se čini da održava socijalni mir, ono u stvari koči ekonomski napredak.  
+Trenutna cena od [1.3 do 16 euro centi](http://www.servisinfo.com/cena-struje) jednostavno nije ekonomski održiva, i mada se čini da održava socijalni mir, ona u stvari koči ekonomski napredak.  
 
-⚠️ Ako bi se cena energije formirala na osnovu izvora iz kojeg dolaz, uticaja na životnu okolinu i zdravlje ljudi (kratkoročnog i dugoručnog), ubrzo bi uvideli da bi energija dobijena iz ugalj, nafte i drugih fosilnih goriva imala zančajno veću cenu. Proizvođači energije se moraju obavezati zakonima životne sredine koji će ih naterati da instaliraju neophodne filtere ali i da pa plate za uklonjanje ugljen-dioksid koji su emitovali u atmosferu. Sada mi krademo od svojih budućih generacija, uništavajući prirodne resurse mi krademo njihovo buduće zdravlje, novac i opstanak, onog trenutka kada tu budući trošak i cenu preusmerimo na sadašnji trenutak uvidećemo da su fosilna goriva mnogo skuplja od obnovljivih izvora energije. 
+⚠️ Ako bi se cena energije formirala na osnovu izvora iz kojeg dolazi, uticaja na životnu okolinu i zdravlje ljudi (kratkoročnog i dugoručnog), ubrzo bi uvideli da bi energija dobijena iz uglja, nafte i drugih fosilnih goriva imala zančajno veću cenu. Proizvođači energije se moraju obavezati zakonima životne sredine koji će ih naterati da instaliraju neophodne filtere, ali i da pa plate za uklonjanje ugljen-dioksida koji su emitovali u atmosferu. Mi sada krademo od svojih budućih generacija - uništavajući prirodne resurse mi krademo njihovo buduće zdravlje, novac i opstanak. Onog trenutka kada taj budući trošak i cenu preusmerimo na sadašnji trenutak uvidećemo da su fosilna goriva mnogo skuplja od obnovljivih izvora energije. 
 
 
-[💡] **Vremenom će biti potrebno blago povećavati cena električne energije**
-Ako električna energije budu [poskupila kao što je najavljeno](https://www.danas.rs/ekonomija/struja-ce-poskupeti-iako-eps-i-sa-ovom-ostvaruje-zaradu/), zeleni kilovati će moći ostvariti profit jedino prodavajući energiju industriji, sve dok se cene za domaćinstva ne prilagode onima u regionu. 
+[💡] **Vremenom će biti potrebno blago povećavati cenu električne energije**
+Ako električna energija bude [poskupela kao što je najavljeno](https://www.danas.rs/ekonomija/struja-ce-poskupeti-iako-eps-i-sa-ovom-ostvaruje-zaradu/), zeleni kilovati će moći ostvariti profit jedino prodavajući energiju industriji, sve dok se cene za domaćinstva ne prilagode onima u regionu. 
 
-Na taj način energetski sektor će moći da privuće investicije mnogo većeg broja malih investitora, od onih koje su postignute kroz program fid-in tarifa.
+Na taj način energetski sektor će moći da privuće investicije mnogo većeg broja malih investitora od onih koje su postignute kroz program fid-in tarifa.
 
-Ovaj blagi porast će biti neophodan kako bi se cene prilagodile inflaciji ali i kako bi se ostvario željeni rast investicija u obnovljive izvore. SVe ovo je neophodno da bi se ostvarila željena dekarbonizacija globalne ekonomije i ublažili pogubni efekati globalnog zagrevanja.
+Ovaj blagi porast će biti neophodan kako bi se cene prilagodile inflaciji, ali i kako bi se ostvario željeni rast investicija u obnovljive izvore. Sve ovo je neophodno da bi se ostvarila željena dekarbonizacija globalne ekonomije i ublažili pogubni efekati globalnog zagrevanja.
 
 
 [💡] **Demokratizovanje tržište električne energije za fizička lica (stanovnike Srbije)**
-Ono što bi moglo biti pomak u načinu razmišljanja je omogućavanje fizičkim licima da slobodno i jednostavno trguju električnom energijom. Da bi ovo funkcionisalo morala bi se stvoriti pametna distributivna mreža sa automatizovanom berzom električne energije. Ovakvo rešenje bi katapultiralo ekonomiju na viši stepen jer bi građani koji inače troše [48%](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) od ukupne energije (struja, grejanje, prevoz) mogli na jednostavan način prodaju energiju pravnim licima. 
+Ono što bi mogao biti pomak u načinu razmišljanja je omogućavanje fizičkim licima da slobodno i jednostavno trguju električnom energijom. Da bi ovo funkcionisalo morala bi se stvoriti pametna distributivna mreža sa automatizovanom berzom električne energije. Ovakvo rešenje bi katapultiralo ekonomiju na viši stepen, jer bi građani koji inače troše [48%](http://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/vlada/odluka/2019/94/4) od ukupne energije (struja, grejanje, prevoz) mogli na jednostavan način da prodaju energiju pravnim licima. 
 
 
-[💡] **Investicioni ugovor sa državom mora biti siguran a administracija (da bi neko postao prozjumer - mogao da se priključi i prodaje) mora biti veoma jednostavna**
-Sigurnost investicaija bi se postizala kroz ugovra ali i kroz garantovane prodajne cena električne energije, koja delimično mogu da fluktuiraju u zavisnosti od ponude, potržnje i vreme dana u kojem se energija koristi. Ulaganje u energiju je jedan od stubova svake ekonomije, a obzirom da je energije uvek potrebna nema razloga da cene padaju ispod navedenih 11.6-16.3c po kWh, samo na taj način možemo privući građane da investiraju i da "rizikuju" (pri čemu ako se sistem napravi kako treba rizik neće postojati).
+[💡] **Investicioni ugovor sa državom mora biti siguran, a administracija (da bi neko postao prozjumer - mogao da se priključi i prodaje) mora biti veoma jednostavna**
+Sigurnost investicija bi se postizala kroz ugovore, ali i kroz garantovane prodajne cene električne energije, koje delimično mogu da fluktuiraju u zavisnosti od ponude, potražnje i dela dana u kojem se energija koristi. Ulaganje u energiju je jedan od stubova svake ekonomije, a obzirom da je energija uvek potrebna nema razloga da cene padaju ispod navedenih 11.6-16.3c po kWh. Samo na taj način možemo privući građane da investiraju i da "rizikuju" (pri čemu ako se sistem napravi kako treba rizik neće postojati).
 
-Procedura da bi neko postao prozjumer i da bi se neko priključio na mrežu sa novim kapacitetom mora biti veoma jednostavna i bez birokratije. 
-Ko god želi da proizvodi struju naročito iz sunčeve energije, osrim prolaska tehničku proveru opreme morao bi da dostavi svu potrebnu dokumentaciju, kao što su bankovni račun, državljanstvo, potvrdu da nije kažnjavan i osuđivan... sve to bi bilo moguće uraditi tokom jednog do dva radna dana.
+Procedura da bi neko postao prozjumer i da bi se neko priključio na mrežu sa novim kapacitetom mora biti veoma jednostavna i bez birokratije. Ko god želi da proizvodi struju naročito iz sunčeve energije, osim prolaska tehničke provere opreme morao bi da dostavi svu potrebnu dokumentaciju, kao što su bankovni račun, državljanstvo, potvrdu da nije kažnjavan i osuđivan... sve to bi bilo moguće uraditi tokom jednog do dva radna dana.
 
 
 [💡] **EPS bi sve više imao ulogu "berze enerije" a sve manje proizvođača, pa bi shodno tome uzimao određeni procenat po svakom prodatom/kupljenom kWh električne energije** 
 EPS bi imao zaduženje da se stara o pametnoj elektro distributivnoj mreži i morao bi da nađe način kako da poput Tesla Motors kompanije kreira [Virtuelnu Elektranu](https://www.infoq.com/presentations/tesla-vpp/) koja bi sinhronizovala milionski broj proizvođača električne energije.
 
-Broj mikro proizvođača mogao bi se smanjiti sa grupnim investiranjem u solarne elektrane na zemlji, na taj način svaki investitor bi dobijao deo profita nakon što se odbiju troškovi održavanja i operative, dok bi same elektrane bile mnogo većeg kapaciteta, što bi u praksi značilo mnogo veći borj megavatnih instalacija.
+Broj mikro proizvođača mogao bi se smanjiti sa grupnim investiranjem u solarne elektrane na zemlji, na taj način svaki investitor bi dobijao deo profita nakon što se odbiju troškovi održavanja i operative, dok bi same elektrane bile mnogo većeg kapaciteta, što bi u praksi značilo mnogo veći broj megavatnih instalacija.
 
-Dodatni primer su Nemačka gde lokalna domaćinstva imaju mogućnost da međusobno razmenjuju energiju u zavisnosti od potreba. <sup>[[*]](https://renews.biz/56995/germany-backs-smart-energy-neighbourhoods/)</sup>
+Dodatni primer je Nemačka gde lokalna domaćinstva imaju mogućnost da međusobno razmenjuju energiju u zavisnosti od potreba. <sup>[[*]](https://renews.biz/56995/germany-backs-smart-energy-neighbourhoods/)</sup>
 
 
 ## Stabilnost investicije
 Ako bi se zadovoljili gore pomenuti preduslovi, mali investitori bi se pre odlučivali za investicije koje se tiču obnovljive energije iz sunca, vetara, hidro kao i geotermalnih izvora nego što su to recimo ulaganja u dodatne stanove. 
 
 Razmotrimo sledeće dve investicije:
-- Garsonjera u Novom Sadu košta 45000 evra, dok se iznajmljivanjem ne računajući dažbine može ostvariti 170 eur mesečno. To znači da je bez poreza, godišnji povraćaj investicije (return on investment - ROI) **4.5%**. Drugačije rečeno inesticija se vraća za 22 godine. Kada se na ovo doda porez i troškovi održavanja - investicija se vraća za nekih 25 do 30 godina.   
+- Garsonjera u Novom Sadu košta 45,000 evra, dok se iznajmljivanjem, ne računajući dažbine, može ostvariti 170 eur mesečno. To znači da je bez poreza, godišnji povraćaj investicije (return on investment - ROI) **4.5%**. Drugačije rečeno inesticija se vraća za 22 godine. Kada se na ovo doda porez i troškovi održavanja - investicija se vraća za nekih 25 do 30 godina.   
 
-- Solarna elektrana od 30 kW instalisanse snage na zemlji ili krovu, koja proizvede 36990 kWh godišnje, sa dnevnom cenom od 11.6 euro centi, bi godišnje inkasirala 4290 eura, što je godišnji povraćaj investicije od **14.3%**, ili povraćaj investicije u roku od 7 godina. To je otprilike povraćaj koji bi se mogao ostvariti na nekretninama u Londonu gradu sa ogromnom populacijom i velikom nestašicom stanova. 
+- Solarna elektrana od 30 kW instalisane snage na zemlji ili krovu, koja proizvede 36,990 kWh godišnje, sa dnevnom cenom od 11.6 euro centi, bi godišnje inkasirala 4290 eura, što je godišnji povraćaj investicije od **14.3%**, ili povraćaj investicije u roku od 7 godina. To je otprilike povraćaj koji bi se mogao ostvariti na nekretninama u Londonu, gradu sa ogromnom populacijom i velikom nestašicom stanova. 
 
 Poređenja radi investiranje na berzi u index "S&P 500" ima ROI od 9.7%.
 
 Treba napomenuti da bi se ovakvim investiranjem BDP značajno uvećao. Jer ako **u 8 godini napravite 30 milijardi eura nekih proizvoda** a ti proizvodi zajedno sa onim prethodno instalirarnim proizvedu **14.3 milijardi evra** električne energije BDP će automatski biti **44.3 milijarde evra** bez bilo koje druge grane privrede.
 
 ## Trošak 
-Kako je to u poređenju sa situacijom danas?
-Srbiji ima <abbr title="Statistički Kalendar Republike Srbije za 2020 (strana 43)">[2,466,316 domaćinstava](https://publikacije.stat.gov.rs/G2020/Pdf/G202017013.pdf)</abbr> i sva ona troše određeni novac na grejanje kao i električnu energiju potrebnu za osvetljenje i rad raznih kućnih aparata i mašina. 
-Što se privrede tiče ona troši slično u skoro proporcinalnoj meri kao i domaćinstva. 
+Kako je to u poređenju sa situacijom danas? 
 
-Na grejanje smo do sada trošili u proseku 2,466,316 * 700 eur   = 1.73 milijardi eur
-Na grejanje poslovnih objekata potroši se približno isto kao domaćinstava otrpilike 2 milijardi eur
-Električne energije se potroši [39405 GWh](https://www.schrack.rs/fileadmin/f/rs/pictures/company-contact/events/Schrack_Info_dani/Prezentacije/Dr_ZeljkoDespotovic_Info_dani_april_2012_SCHRACK.pdf) * 8.5 centi što je približno 3.5 milijardi eur
-Što se transporata tiče, 2.5 miliona vozila, koliko ih ima u Srbiji, godišnje potroše oko 1.05 milijardi evra naftnih derivata na koji se plaća 1.4 milijarde evra akcize što je ukupno oko 2.45 milijardi.
+Srbija ima <abbr title="Statistički Kalendar Republike Srbije za 2020 (strana 43)">[2,466,316 domaćinstava](https://publikacije.stat.gov.rs/G2020/Pdf/G202017013.pdf)</abbr> i sva ona troše određeni novac na grejanje kao i električnu energiju potrebnu za osvetljenje i rad raznih kućnih aparata i mašina. Što se privrede tiče ona troši slično u skoro proporcinalnoj meri kao i domaćinstva. 
 
-Sumarno, za sada trošimo otprilike **9 milijardi evra** na energente. Pri ovome cene mnogih energenata se radi očuvanja socijalnog mira drže mnogo ispod onih u Evropi. Ovom trendu u mnogome doprinosi i jeftina radna snaga. Na neki način nalazimo se u začaranom krugu svojevrsna Kvake-22 u kojoj "da bi održali socijalni mir nisko plaćenih radnika, držimo niske cene energenata, zbog kojih radnici u tom sektoru imaju niske plate".  
+- Na grejanje smo do sada trošili u proseku 2,466,316 * 700 eur = 1.73 milijardi eur
 
-Način da se izađe iz ovog Gordijevog čvora je da se cena električne energije linearno prilagode za domaćinstva tokom 10 godina, dok bi se cena za industriju odmah povećala tako da bude isplativa za one koji proizvode električnu energiju. Ovo ne bi opteretilo domaćinstva jer bi domaćinstva mahom uzimala sistem koji bi zadovoljavali njihove potrebe pa struju ne bi ni plaćali.
+- Na grejanje poslovnih objekata potroši se približno isto kao na grejanje domaćinstava, otprilike 2 milijardi eur
 
-Način implementacija mora biti takva da se konzumerske navike menja u skladu sa novim kapacitetima mreže tako da ona može da prihvati novonastale promene. 
+- Električne energije se potroši [39405 GWh](https://www.schrack.rs/fileadmin/f/rs/pictures/company-contact/events/Schrack_Info_dani/Prezentacije/Dr_ZeljkoDespotovic_Info_dani_april_2012_SCHRACK.pdf) * 8.5 centi, što je približno 3.5 milijardi eur
 
-Kao što sam već naveo, jedan od najvažniji preduslova da bi investicija bila moguća je da invesitori moraju imati mogućnost da prodaju proizvod koji prave (električnu energiju), što u Srbiji trenutno nije moguće, a u retkim slučajevima je rezervisano samo za povlašćenu manjinu osiguranih proizvođača električne energije.
+- Što se transporata tiče, 2.5 miliona vozila, koliko ih ima u Srbiji, godišnje potroši oko 1.05 milijardi evra naftnih derivata na koje se plaća 1.4 milijarde evra akcize, što je ukupno oko 2.45 milijardi.
+
+Sumarno, za sada trošimo otprilike **9 milijardi evra** na energente. Pri ovome se cene mnogih energenata radi očuvanja socijalnog mira drže mnogo ispod onih u Evropi. Ovom trendu u mnogome doprinosi i jeftina radna snaga. Na neki način nalazimo se u začaranom krugu svojevrsne Kvake-22 u kojoj "da bi održali socijalni mir nisko plaćenih radnika, držimo niske cene energenata, zbog kojih radnici u tom sektoru imaju niske plate".  
+
+Način da se izađe iz ovog Gordijevog čvora je da se cena električne energije linearno prilagodi za domaćinstva tokom 10 godina, dok bi se cena za industriju odmah povećala tako da bude isplativa za one koji proizvode električnu energiju. Ovo ne bi opteretilo domaćinstva jer bi domaćinstva mahom uzimala sistem koji bi zadovoljavao njihove potrebe, pa struju ne bi ni plaćali.
+
+Način implementacije mora biti takav da se konzumerske navike menjaju u skladu sa novim kapacitetima mreže, tako da ona može da prihvati novonastale promene.
+
+Kao što sam već naveo, jedan od najvažnijih preduslova da bi investicija bila moguća je da invesitori moraju imati mogućnost da prodaju proizvod koji prave (električnu energiju), što u Srbiji trenutno nije moguće, a u retkim slučajevima je rezervisano samo za povlašćenu manjinu osiguranih proizvođača električne energije.
 
 Šta bi trebalo uraditi?
 
 
 ## Novac za investicije
 
-Obzirom da je 142.6 milijardi eura prilično velika suma, postavlje se pitanje gde naći novac za početne investicije?
+Obzirom da je 142.6 milijardi eura prilično velika suma, postavlja se pitanje gde naći novac za početne investicije?
 
 Odgovor je kao i za sve ostale investicije, tamo gde se novac stvara kad je potrebno stvoriti neke nove proizvode i usluge.
 
@@ -254,9 +251,9 @@ Prva ideja je da oni koji na svojim štednim računima imaju određenu ušteđev
 | od 100,000 do 500,000  |        5,677 | 987.84 miliona    | 
 | Total:                 |  **513,964** |                   | 
 
-Pa bi shodno tome građani mogli investirati u ovakav vid investicija, međutim zbog nepostojanja tržišta i mnogobrojnih prevara, građani su uglavnom nevoljni da rade bilo šta slično. Ovde bi bitnu ulogu odigrao već opisani [postepen način implementacije](#implementacija) koji bi iz prve ruke dao povratnu informaciju o iskustvima građana sa EPSom i državom, na taj način broj mogućih malverzacija smanjio bi se na najmanju moguću meru.
+Shodno tome građani bi mogli investirati u ovakav vid investicija, međutim zbog nepostojanja tržišta i mnogobrojnih prevara, građani su uglavnom nevoljni da rade bilo šta slično. Ovde bi bitnu ulogu odigrao već opisani [postepen način implementacije](#implementacija) koji bi iz prve ruke dao povratnu informaciju o iskustvima građana sa EPSom i državom, na taj način broj mogućih malverzacija smanjio bi se na najmanju moguću meru.
 
-U tabeli iznad je broj građana po štednim partijama dok se u tabeli dole obzirom na ukupan broj domaćinstava u Srbiji od 2,466,316, nalazi koliko bi svako domaćinstvo moglo da investira. Jedan kilowat je jednako 1000 evra pa je samim tim 30kW jednako 30,000 evra.
+U tabeli iznad je broj građana po štednim partijama dok se u tabeli dole obzirom na ukupan broj domaćinstava u Srbiji od 2,466,316, vidi koliko bi svako domaćinstvo moglo da investira. Jedan kilowat je jednako 1000 evra pa je samim tim 30kW jednako 30,000 evra.
 
 |	 	   |       | 			 EUR |
 |----------|-------|----------------:|
@@ -268,22 +265,22 @@ U tabeli iznad je broj građana po štednim partijama dok se u tabeli dole obzir
 |          |       | 140,840,800,000 |
 |		   |       |  -1,759,200,000 |
 
-Takođe partija koja nije predstavljena to jest 343 klijenta koja imaju više od 500,000 evra na bankovnim računama su oni ljudi koji bi trebali da investiraju u proizvodne linije, jer nesmemo da dozvolimo da uvozimo sve te solarne panele, jer bi to onda predstavljalo gubitak od 145 milijardi evra koji bi nastavio da raste u budućnosti.
+Takođe partija koja nije predstavljena to jest 343 klijenta koja imaju više od 500,000 evra na bankovnim računama su oni ljudi koji bi trebali da investiraju u proizvodne linije, jer ne smemo da dozvolimo da uvozimo sve te solarne panele, jer bi to onda predstavljalo gubitak od 145 milijardi evra koji bi nastavio da raste u budućnosti.
 
 |	 	   |       | 			  kW |
 |------------------------|--------------|------------------:|
 | od 500,000  pa na više |          343 | 337.7 miliona     |
 
-Međutim ovde verovatno postavljate pitanje kako sam doša do broja 2,232,288 za elektrane od 50kW i gde naći onih 1.8 milijardi koji nedostaju, i gde naći sve investicije obzirom da naši najbogatiji ljudi sve ukupno nemaju više od 338 miliona evra na svojim računima?
+Međutim, ovde verovatno postavljate pitanje kako sam došao do broja 2,232,288 za elektrane od 50kW i gde naći onih 1.8 milijardi koji nedostaju, kao i gde naći sve investicije obzirom da naši najbogatiji ljudi sve ukupno nemaju više od 338 miliona evra na svojim računima?
 
 
 [💡] **Novac dijaspore**
 
-U [članku o stanju](/articles/01-stanje/) pomenuto je da postoji 400,000 ljudi koji su na privremenom radu u inostranstvu, oni godišnje matici pošalju [3.5 milijardi EUR](https://www.blic.rs/biznis/zbog-povratka-gastarbajtera-gubimo-i-do-milijardu-evra-doznaka-400000-srba-vec-se/rmvn9rc).
+U [članku o stanju](/articles/01-stanje/) pomenuto je da postoji 400,000 ljudi koji su na privremenom radu u inostranstvu, te oni godišnje matici pošalju [3.5 milijardi EUR](https://www.blic.rs/biznis/zbog-povratka-gastarbajtera-gubimo-i-do-milijardu-evra-doznaka-400000-srba-vec-se/rmvn9rc).
 
-Umesto da se taj novac potroše na standardna zadovoljstva, oni bi mogli da investiraju taj novac, umnaožavajući ga nakon 5 do 7 godina. Da bi se to desilo, i da bi investitori dobili uloženi novac nazad, investicije moraju biti isplative i mora postojati sistem koji će garantovati zaradu.
+Umesto da taj novac potroše na standardna zadovoljstva, oni bi mogli da ga investiraju, umnaožavajući ga nakon 5 do 7 godina. Da bi se to desilo, i da bi investitori dobili uloženi novac nazad, investicije moraju biti isplative i mora postojati sistem koji će garantovati zaradu.
 
-Ujedno **stabilna investicija bi značile i povratak ljudi iz inostranstva nazad u maticu**, jer su mnogi odavde otišli baš zato što se teško ikome može verovati. Brojni su primeri kako domaćim investitorima podmeću noge svi od najmanjeg činovnika u lokalnoj vlasti pa sve do same vladajuče stranke.
+Ujedno **stabilna investicija bi značila i povratak ljudi iz inostranstva nazad u maticu**, jer su mnogi odavde otišli baš zato što se teško ikome može verovati. Brojni su primeri kako domaćim investitorima podmeću noge svi, od najmanjeg činovnika u lokalnoj vlasti, pa sve do same vladajuće stranke.
 
 Dijaspora je ta koja bi mogla uložiti u automatizovane proizvodne linije za proizvodnju monokristala i polikristala potrebnog za solarne panele ([Nemci su 2013. godine kupili naš rudnik kvarca Ub](https://www.novosti.rs/vesti/naslovna/ekonomija/aktuelno.239.html:416621-Nemci-kupili-sedam-rudnika-u-Srbiji)), linije za proizvodnju solarnih modula, invertora, kablova, aluminijumskih konstrukcija i nosača, ali takođe i tehnologiju potrebnu za razvoj robota koji bi čistili panele od prašine i snega.
 
@@ -293,22 +290,21 @@ Ostalo je da rešimo gde naći 2,232,288 investicije za elektrane od 50kW?
 
 [💡] **Kreditiranje svih gradjana**
 
-Ako su zadovoljni preduslovi kao što su stabilnost investicija kroz tržište i ugovor sa državom, onda stoji da bi se kredit dat svakom domaćinstvu u Srbiji, pod uslovom da su platili učešće od 10%, (mada ovo ne mora da bude uslov ali bi dalo banci neophodnu operativu), investicija bi se sama od sebe otplaćivala. Nakon 8 do 9 godine one bi počela  donositi prihod (period povraćaja je uvećan zbog godišnje kamate od 2.5% na uzeti kredit).
+Ako su zadovoljeni preduslovi kao što su stabilnost investicija kroz tržište i ugovor sa državom, onda stoji da bi se kredit dat svakom domaćinstvu u Srbiji, pod uslovom da su platili učešće od 10%, (mada ovo ne mora da bude uslov ali bi dalo banci neophodnu operativu), investicija bi se sama od sebe otplaćivala. Nakon 8 do 9 godina one bi počela donositi prihod (period povraćaja je uvećan zbog godišnje kamate od 2.5% na uzeti kredit).
 
 Svakom godinom investiranja, gurao bi se planirani rast BDP-a opisan u ["idustrijama budućnosti"](/articles/21-industrije-buducnost/). Ako bi BDP pratio rast u ostalim oblastima bilo bi lakše sprovesti čitav plan u delo, pri čemu bi banke imale još veću sigurnost da mogu uvećati kreditni balon.
 
-Ovde treba razumeti kako se trenutno stvara novi novac unutar ekonomije. [Novi novac u ekonomiji se kreiran kroz kreditiranje](https://positivemoney.org/how-money-works/banking-101-video-course/how-is-money-really-made-by-banks-banking-101-part-3/), na osnovu osnovice kojom banke već raspolažu i rezervi u centralnoj banci, banka određuju koeficijent množenja između bazičnog novca i novo kreiranog novca. Primera radi balon koji se stvorio tokom krize 2008 imao je odnos od 1:80 između osnove i zaduženja. Nakon krize upumpavanjem "odštampanog" novca takozvanim "kvantitativnim olakšanjem" države su smanjile tu razmeru na stabilniji odnos 1:16.
+Ovde treba razumeti kako se trenutno stvara novi novac unutar ekonomije. [Novi novac u ekonomiji se kreira kroz kreditiranje](https://positivemoney.org/how-money-works/banking-101-video-course/how-is-money-really-made-by-banks-banking-101-part-3/), na osnovu osnovice kojom banke već raspolažu i rezervi u centralnoj banci, banka određuju koeficijent množenja između bazičnog novca i novo kreiranog novca. Primera radi balon koji se stvorio tokom krize 2008 imao je odnos od 1:80 između osnove i zaduženja. Nakon krize upumpavanjem "odštampanog" novca takozvanim "kvantitativnim olakšanjem" države su smanjile tu razmeru na stabilniji odnos 1:16.
 
-Samim tim pošto Narodna Banka Srbije ima zalihe od 13 milijardi evra dok ostale banke na štednim računima imaju 15 milijardi evra, možemo pretpostaviti da bi sa sigurnom investicijom kao što je ova i stopom multiplikacije od 1:10 koja je prilično standardna, imali na raspolaganju 150 milijardi evra novog novca. Međutim, pošto se ne zahteva da izvršenje bude sve u jednoj godini, a krediti bi se verovatno vraćali i ranije. Ako se sve uradi kako treba period otplate bi bio 5-7 godina. Samim tim banka koja pozajmljuje novac bi brzo videle povraćaj novca. 
+Samim tim pošto Narodna Banka Srbije ima zalihe od 13 milijardi evra dok ostale banke na štednim računima imaju 15 milijardi evra, možemo pretpostaviti da bi sa sigurnom investicijom kao što je ova i stopom multiplikacije od 1:10 koja je prilično standardna, imali na raspolaganju 150 milijardi evra novog novca. Međutim, pošto se ne zahteva da izvršenje bude sve u jednoj godini, krediti bi se verovatno vraćali i ranije. Ako se sve uradi kako treba period otplate bi bio 5-7 godina. Samim tim bi banka koja pozajmljuje novac brzo videle povraćaj novca. 
 
-Naravno ovde treba napomenuti, da bi sve radilo kako treba, konzumiranja energije će morati da se menja paralelno sa proizvodnjom. Potpunu elektrifikaciju, zajedno sa proizvodnjom, moraju pratiti i distributivna mreža, saobraćaj, grejanje ali i energetska efikasnost - koji bi takođe moralali biti kreditirani, o čemu ću više pisati sledeći put.
-Na neki način ako bi sve bilo izvedeno kako treba, sledećih 10 godina bi sve izgledalo kao jedan dobro uigran sinhronizovan ples koji se postepeno.
+Naravno ovde treba napomenuti, da bi sve radilo kako treba, konzumiranja energije će morati da se menja paralelno sa proizvodnjom. Potpunu elektrifikaciju, zajedno sa proizvodnjom, moraju pratiti i distributivna mreža, saobraćaj, grejanje ali i energetska efikasnost - koji bi takođe morali biti kreditirani, o čemu ću više pisati sledeći put. Na neki način ako bi sve bilo izvedeno kako treba, sledećih 10 godina bi sve izgledalo kao jedan dobro uigran sinhronizovan ples.
 
-⚠️ U ovom modelu bilo bi potrebno da se kreira **nova banka koja bi bila imala 100% srpsko vlasništvo** kao što je to recimo za britance RBS banka. Obzirom na veličinu projekta i količine novca koja bi bila u igri bilo bi potrebno izbeći svaki odliv novca, koji bi zbog sigurnosti profita takve banke tekao ka mogućim stranim akcionarima.
+⚠️ U ovom modelu bilo bi potrebno da se kreira **nova banka koja bi bila 100% srpsko vlasništvo** kao što je to recimo za britance RBS banka. Obzirom na veličinu projekta i količinu novca koja bi bila u igri bilo bi potrebno izbeći svaki odliv novca, koji bi zbog sigurnosti profita takve banke tekao ka mogućim stranim akcionarima.
 
-⚠️ Ova banka bi trebala da ima akcionare koji bi imali srpsko državljansto i poreklo, nisu krivično gonjeni ili osuđivani. Vođstvo banke bi moralo da bude najstručnije, najpoštenije i najobrazovanije moguće - što bi verovatno podrazumevalo, vraćanje nekih ljudi iz dijaspore koji već imaju iskustva sa bankarskim sektorom u zapadnim zemljama.
+⚠️ Ova banka bi trebala da ima akcionare koji bi imali srpsko državljansto i poreklo i nisu krivično gonjeni ili osuđivani. Vođstvo banke bi moralo da bude najstručnije, najpoštenije i najobrazovanije moguće - što bi verovatno podrazumevalo vraćanje nekih ljudi iz dijaspore koji već imaju iskustva sa bankarskim sektorom u zapadnim zemljama.
 
-⚠️ Svaki građanin koji je ispunio uslove dobio bi opciju da kupih 10 evra akcija, pri čemu niko ne bi mogao da kupi više od toga. Svaki građanin mi dobio samo jednu akciju. Na taj način bi se skupila baza od 80 miliona evra, dovoljna za osnivanje banke i osnovni depozit za početak multipliciranja kreditnog investicionog novca. Određeni broj ljudi koji bi morao biti pažljivo izabran tako da bude etički upravni odbor akcionara koji bi birao i imao moć da smenjuje direktore i prati rad banke. Banka bi bila u 100% privatno vlasništvo svih stanovnika zemlje. Država ne bi imala politički uticaj na rad i smenu kadrova. Građani bi mogli da drže svoju štednju i primaju plate ali bi glavna poslovna grana bila sigurni investicioni krediti. Na taj način ako svaka od karika u lancu bude uradila ono što je potrebno, vrednost banke bi se značajno uvećala. 
+⚠️ Svaki građanin koji je ispunio uslove dobio bi opciju da kupih 10 evra akcija, pri čemu niko ne bi mogao da kupi više od toga. Svaki građanin bi dobio samo jednu akciju. Na taj način bi se skupila baza od 80 miliona evra, dovoljna za osnivanje banke i osnovni depozit za početak multipliciranja kreditnog investicionog novca. Određeni broj ljudi koji bi morao biti pažljivo izabran tako da bude etički upravni odbor akcionara koji bi birao i imao moć da smenjuje direktore i prati rad banke. Banka bi bila u 100% privatno vlasništvu svih stanovnika zemlje. Država ne bi imala politički uticaj na rad i smenu kadrova. Građani bi mogli da drže svoju štednju i primaju plate ali bi glavna poslovna grana bila sigurni investicioni krediti. Na taj način ako svaka od karika u lancu bude uradila ono što je potrebno, vrednost banke bi se značajno uvećala. 
 
 ⚠️ Treba konstantno edukovati građane kako ne bi potpali pod prevarantske (političke, medijske i mešetarske...) manipulacije, koje bi ih navele da akcije prodaju pre vremena slično kao što se to činilo sa akcijama mnogih preduzeća tokom godina tranzicije, čime bi vlasništvo investicione banke moglo preći u ruke manjine.
 
