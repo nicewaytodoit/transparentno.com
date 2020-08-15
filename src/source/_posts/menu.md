@@ -6,20 +6,21 @@ func: true
 ---
 
 # [ČLANCI](/archives)
-<!-- ## Poslednjih 5
+<!-- 
+## Poslednjih 5
 * [Odgovornost Medija](/articles/odgovornost-medija/)
 * [Covid 19](/articles/covid19/)
-* [Razlog](/articles/razlog/) -->
+* [Razlog](/articles/razlog/)
 
 # [O MENI](/o-meni)
 
-# [USLUGE](/usluge)
+# [USLUGE](/usluge) -->
 
 # [KONTAKT](/kontakt)
 
 * - 
 
-# OSTALO
+<!-- # OSTALO
 ## Zanima vas ?
 * Saradnja
 * Širenje
@@ -27,6 +28,6 @@ func: true
 * Sugestije
 
 ## Tehnički deo
-* [Changelog](/articles/~changelog)
+* [Changelog](/articles/~changelog) -->
 <!-- * [ToDo List](/articles/~todo-list) -->
 
