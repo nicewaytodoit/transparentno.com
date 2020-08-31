@@ -547,6 +547,9 @@ Relativno skoro je objavljena [publikacija](https://www.sciencedirect.com/scienc
 
 Postrojenja koja koriste kompresovani vazduh sa cenom od [$191 po kWh](https://www.slenergystorage.com/documents/20190626_Long_Duration%20Storage_Costs.pdf) takođe mogu biti validna opcija, za dugotrajno čuvanje energije. Međutim, treba imati na umu da je efikasnost konverzije lošija u zimskom period kada bi u stvari trebalo da koristimo energiju najintezivnije. 
 
+Još jedna povoljna opcija može biti i skladištenje energije pravljenjem [Amonijaka](https://www.sciencemag.org/news/2018/07/ammonia-renewable-fuel-made-sun-air-and-water-could-power-globe-without-carbon) (NH3) koji se može prenositi, skladištiti i koristiti poput fosilnih goriva. Temperatura paljenja je oko 650 C, a tokom sagorevanja amonijak ne zagađuje atmosferu, čak se koristi kako bi neutralisao mnoge otrovne gasove tokom sagorevanja fosilnih goriva. Međutim, ono na šta posebno treba obratiti pažnju je da je amonijak izuzetno toksičan pa su potrebne strože mere prilikom rada sa njim.
+
+
 ### Ekonomska prilika
 Šta sve ovo znači za Srbiju?
 
