@@ -25,13 +25,13 @@ Postavlja se pitanje šta vam je potrebno da bi živeli i napredovali toliko da 
 
 Jasno je da obzirom da ste sami, morate nekako naći više vremena za razmišljanje a manje za rad. Jedna ideja je da ga trošite manje na stvari koje morate raditi da bi preživeli (nalaženje vode, hrane, održavanje higijene, grejanje...), kako bi imali vremena da radite one stvari koje vas zanimaju (razmišljanje o egzistencijalnim pitanjima kao što su svemir, smisao, smrt, sloboda, uživanje...). 
 
-Postoji tanani balans između toga koliko vremena možete uštrpnuti na jednom tehnološkom nivou pre nego što ono počne štetno uticati na vas. Primera radi, Hektorovi delfini sa Novog Zelanda, zbog hladnije vode samo da bi preživeli moraju neprestano loviti ribu, što im ostavlja vrlo malov vremena za igru - čak i najmanje narušavanje staništa može oterati ribu, kreirajući veoma tanku razliku između života i smrti.
+Postoji tanani balans između toga koliko vremena možete uštrpnuti na jednom tehnološkom nivou pre nego što ono počne štetno uticati na vas. Primera radi, Hektorovi delfini sa Novog Zelanda, zbog hladnije vode samo da bi preživeli moraju neprestano loviti ribu, što im ostavlja vrlo malo vremena za igru - čak i najmanje narušavanje staništa može oterati ribu, kreirajući veoma tanku razliku između života i smrti.
 
 Dobijanje "slobodnog vremena" je tip optimizacije kojem ljudska civilizacija neprestano teži. Mi usavršavamo radne procese, kako bi mogla da posvetimo značajniju količinu vremena funkcijama višeg reda. Ako stvari postavimo na taj način, postavlja se pitanje: šta je potrebno uraditi da bi se odnos između "moramo vreme" i "želimo vreme" promenio?
 
 Obzirom da nema drugih jediniki od kojih bi napravili robove i koje bi radile za nas, potrebno je da napredujemo u tehnološkom smislu. Da bi se to i desilo bitno je kako upravljamo sa tri stuba prosperiteta: **energijom, informacijama i radom**. 
 
-Na početku beše instrukcija ("informacija"), i ona je zahtevala energiju, da bi se transformisala u pokret ("rad").
+> Na početku beše instrukcija ("informacija"), i ona je zahtevala energiju, da bi se transformisala u pokret ("rad").
 
 Mozak stvara misao komandnog tipa, a ona zapoveda mišićima ruke da se pomere. Mišići troše energiju i pretvaraju to dvoje u pokret. Nakon što se pokret desi, putem čula, mozak dobija povratnu informaciju šta se desilo i ciklus se ponavlja.
 
@@ -41,7 +41,7 @@ Pa tako  **Informacija** može biti stanje (znanje, podatak, merenje...) ali i r
 
 Kakve ovo sve veze ima sa nama i napretkom?
 
-Često mislimo da napredak zavisi od novca i da ako nemamo novca ne možemo napredovati, međutim ono što je zaista potebno su efikasniji načini za dobijanje i manipulisanje sa ova tri elementa prosperiteta. Ovladavanje njima znači ovladavanje napretkom i svime što on čini.
+Često mislimo da napredak zavisi od novca i da ako nemamo novca ne možemo napredovati, međutim to nije tačno. **Ono što je zaista potebno su efikasniji načini za dobijanje i manipulisanje sa tri elementa prosperiteta - informacijama, energijom i radom**. Ovladavanje njima znači ovladavanje napretkom i svime što on čini.
 
 Čovek je lenja životinja, ili tačnije rečeno životinja koja uvek traži način kako da što više vremena proved u uživanju a što manje u patnji.
 
@@ -67,7 +67,7 @@ Ovde se možemo zapitati zašto se onda stalno vrtimo u krugu, i zašto uništav
 
 Bavljenjem potrebama samoostvarivanja, moral koji smo kreirali nije bio dovoljno širok, da obuhvati sva bazična pravila - koja definišu granice optimizacije. Baš ta pravila nam ne dopuštaju da zanemarimo važne elemente kroz brigu o bićima i stvarima koja su u indirektrnoj vezi sa nama.
 
-Ekonomski gledano stvari u Srbiji se ne pomeraju sa iste tačke, jer polovina ima ograničen moral - pa se shodno tome, bez obzira kom sloju društva pripadali, i dalje veruje da je **krađa najunosniji način bogaćenja**. Dok druga polovina veruje da je jedini način da se obogatimo da raimo **više, jače i upornije**.
+Ekonomski gledano stvari u Srbiji se ne pomeraju sa iste tačke, jer polovina ima ograničen moral - pa se shodno tome, bez obzira kom sloju društva pripadali, i dalje veruje da je **krađa najunosniji način bogaćenja**. Dok druga polovina veruje da je jedini način da se obogatimo da radimo **više, jače i upornije**.
 
 Veruje se da može biti bolje - samo ako svi rade više od onih predviđenih 8 sati dnevno. Koliko puta ste čuli od ekonomista i političara da treba da ulažemo u poljuprivredu i da radimo što više?
 Mnogi poljoprivrednici znaju da se u poslednjih nekoliko decenija retko ko obogatio od svog teškog rada. Poljoprivredni proizvodi su sve jeftiniji, i sve je teže zaraditi. Samo oni koji imaju na stotine hektara zemlje nekako sastavljaju kraj sa krajem.
